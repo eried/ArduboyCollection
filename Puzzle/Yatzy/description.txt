@@ -1,0 +1,1 @@
+The classic dice game is now available for the ARDUBOY! Play Solo or play with up to two friends with pass and play.
