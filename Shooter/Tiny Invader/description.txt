@@ -1,0 +1,2 @@
+Tiny Digital Invader is Casio MG-880 Calculator(1980) game clone.
+This game use only 8 * 7-segment display.
