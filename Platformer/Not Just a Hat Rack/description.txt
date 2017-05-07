@@ -1,0 +1,1 @@
+‘Not Just a Hat Rack’ is a fast paced platformer for the Arduboy inspired by titles such as ‘Super Meat Boy’ & ‘Super House of Dead Ninjas’. The aim is to complete the 40 rapidfire levels in the shortest time... There is no pause button
