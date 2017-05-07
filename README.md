@@ -8,7 +8,7 @@ http://arduboy.ried.cl/repo.json
 Use the repository in your own application or in an Arduboy uploader like Arduboy Mate for Android:
 https://play.google.com/store/apps/details?id=de.mockfrog.arduboymate&hl=en
 
-![GitHub Logo](/demo.jpg)
+![Demo](/demo.jpg)
 
 ## Submission files
 
