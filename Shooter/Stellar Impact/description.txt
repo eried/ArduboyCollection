@@ -1,0 +1,1 @@
+It's a simple shmup, but it has lots of stuff I think is pretty neat, like procgen starfields, a bomb that freezes time, a nice title screen, eeprom saving and more.

@@ -1,0 +1,1 @@
+Little Rook Chess is a chess program with a graphics front end. It was Originally developed as a demo application for my graphics library, U8glib13. Little Rook Chess is now part of U8g229, the latest version of my graphics lib.

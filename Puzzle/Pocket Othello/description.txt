@@ -1,0 +1,1 @@
+Pocket Othello is an Othello game for the Arduboy in your pocket.

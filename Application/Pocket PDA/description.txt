@@ -1,0 +1,1 @@
+Pocket PDA is an OS for the Arduboy with some useful utilities, which turns your Arduboy into a PDA.
