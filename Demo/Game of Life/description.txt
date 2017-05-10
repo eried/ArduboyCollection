@@ -1,0 +1,7 @@
+This is a 25x25 Game of Life program for Arduboy.
+
+KEYS
+A: Game start
+B: Put live cell
+Direction Keys: Move cell
+UP and DOWN: Reset
