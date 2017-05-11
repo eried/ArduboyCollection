@@ -1,0 +1,1 @@
+A port of Stephanie Mak's SFCave: This is a game I used to enjoy back in the Palm Pilot days. It's a really simple game, uses only a single pushbutton to control the action. You're 'flying' through a cave and you can only control your altitude - press the button to go up, release the button to go down. The object is not to crash into the ceiling or floor.

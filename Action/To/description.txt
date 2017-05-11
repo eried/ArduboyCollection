@@ -1,0 +1,1 @@
+You are the developer of the door with the teleport function. But just before completion, someone is trying to destroy the door. There seems to be no choice but to distort the space with the power of the door and to prevent destruction.

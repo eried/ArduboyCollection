@@ -1,0 +1,3 @@
+Abshell is a command shell for Arduboy. You can send commands from PC to Arduboy via USB-serial port.
+
+No programming skills needed to draw graphics on Arduboy screen !
