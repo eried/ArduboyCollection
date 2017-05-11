@@ -1,1 +1,1 @@
-a simple “PONG inspired” game by an Arduboy noob
+a simple "PONG inspired" game by an Arduboy noob
