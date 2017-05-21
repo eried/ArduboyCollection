@@ -1,0 +1,3 @@
+Entry for the Arduboy Jam May 2017
+
+Instructions: Escape from animals as long as you can. Jump over Crocodile. Run when Rhino charges. Jump the small animals on the ground.
