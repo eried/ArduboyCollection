@@ -1,0 +1,1 @@
+Simple USB HID Gamepad. Emulates a normal gamepad with 4 buttons and directional pad.
