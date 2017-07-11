@@ -1,0 +1,1 @@
+petitseq is petit size sequencer for Arduboy
