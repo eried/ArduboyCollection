@@ -1,1 +1,1 @@
-Very simple, very early Picross clone that I have been working on for the past couple of days. Currently only has 3 boards, a 5x5, a 10x10, and a 15x15.
+Very simple, very early Picross clone. Total of 16 boards, some taken from Mario's Picross, and whatever I could find on Google. Work in Progress.
