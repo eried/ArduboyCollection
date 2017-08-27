@@ -1,1 +1,1 @@
-Very simple, very early Picross clone. Total of 16 boards, some taken from Mario's Picross, and whatever I could find on Google. Work in Progress.
+Very simple, very early Picross clone. Currently has 16 boards, some of which are from Mario's Picross for the Gameboy.
