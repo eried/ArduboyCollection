@@ -1,0 +1,3 @@
+Uses Gamebuino Library for Arduboy (github.com/akkera102/08_gamebuino) by akkera102
+
+A fast paced racing game where you have to finish a lap as fast as possible while avoiding obstacles.
