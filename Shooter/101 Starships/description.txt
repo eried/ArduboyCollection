@@ -1,0 +1,3 @@
+Uses <a href=https://github.com/akkera102/08_gamebuino>Gamebuino Library for Arduboy</a> by <a href=https://github.com/akkera102>akkera102</a>
+
+Can you destroy this huge fleet and survive? A difficult shoot 'em up with interesting scoring mechanics.
