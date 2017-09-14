@@ -1,3 +1,3 @@
-Uses Gamebuino Library for Arduboy (github.com/akkera102/08_gamebuino) by akkera102
+Uses Gamebuino Library for Arduboy (github.com/akkera102/08_gamebuino) by akkera102. 
 
 Klondike solitaire
