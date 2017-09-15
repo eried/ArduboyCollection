@@ -1,3 +1,1 @@
-Uses Gamebuino Library for Arduboy (github.com/akkera102/08_gamebuino) by akkera102. 
-
-A Logic simulator for the gamebuino
+A Logic simulator for the gamebuino (This game was adapted using the Gamebuino Library for Arduboy by akkera102)

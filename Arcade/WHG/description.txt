@@ -1,3 +1,1 @@
-Uses Gamebuino Library for Arduboy (github.com/akkera102/08_gamebuino) by akkera102. 
-
-This is a Gamebuino port of the browsergame Worlds Hardest Game. Featuring 22 levels this game will surely seem to be next to impossible! I am not responsible for any damage to your Gamebuino that you do due to the frustration when trying to beat this game.
+This is a Gamebuino port of the browsergame Worlds Hardest Game. Featuring 22 levels this game will surely seem to be next to impossible! I am not responsible for any damage to your Gamebuino that you do due to the frustration when trying to beat this game. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)

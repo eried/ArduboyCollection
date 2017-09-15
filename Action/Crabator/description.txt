@@ -1,3 +1,1 @@
-Uses Gamebuino Library for Arduboy (github.com/akkera102/08_gamebuino) by akkera102. 
-
-Crabator is an intense action game where you kill crabs to make money to buy weapons to kill crabs to make money, etc. but watch out, the more crabs you kill the more they are.
+Crabator is an intense action game where you kill crabs to make money to buy weapons to kill crabs to make money, etc. but watch out, the more crabs you kill the more they are. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)

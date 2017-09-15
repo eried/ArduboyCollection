@@ -1,3 +1,1 @@
-Uses Gamebuino Library for Arduboy (github.com/akkera102/08_gamebuino) by akkera102. 
-
-Can you destroy this huge fleet and survive? A difficult shoot 'em up with interesting scoring mechanics.
+Can you destroy this huge fleet and survive? A difficult shoot 'em up with interesting scoring mechanics. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)
