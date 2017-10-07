@@ -1,6 +1,9 @@
 # Erwin's Arduboy Collection
 
-Access the repository here:
+You can browse the repo here (Use [Arduboy Uploader](https://github.com/eried/ArduboyUploader/releases/latest) for installing stuff):
+http://arduboy.ried.cl
+
+Access json file for the repository here:
 http://arduboy.ried.cl/repo.json
 
 ## Usage
