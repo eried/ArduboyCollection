@@ -1,1 +1,11 @@
 A version of the classic WWII game 1943: The Battle of Midway. Destroy the enemy Zeroes and Bombers. Zeros with solid wings will die on one shot, others will take multiple hits before they die. Watch your fuel, your health and ammunition - replenish these by running over the power ups!
+
+Keys
+
+During play: D-Pad controls the plane, A to shoot and B to roll the plane and avoid enemy bullets.
+Introduction: B to toggle sound, Up or Down to change levels, Left or Right to see credits.
+Game Over: Up and Down to reset scores.
+
+Level 1 is capped at 30 games.
+Level 2 is capped at 60 games.
+Level 3 goes forever!
