@@ -1,0 +1,13 @@
+<svg zoomAndPan="disable" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24.707px" height="19.411px" viewBox="35.646 38.942 24.707 19.411">
+
+	<style type="text/css"><![CDATA[
+		line {
+			stroke: #d0d0d0;
+			stroke-width: 1.5px;
+		}
+    ]]></style>
+
+	<line x1="60" y1="46" x2="48" y2="58" />
+	<line x1="36" y1="46" x2="48" y2="58" />
+
+</svg>
