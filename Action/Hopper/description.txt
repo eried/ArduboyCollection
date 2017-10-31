@@ -1,0 +1,1 @@
+There are square panels around you. You must jump on them and go up (foreground side). If you miss the panel and fall toward bottom, the game is over.
