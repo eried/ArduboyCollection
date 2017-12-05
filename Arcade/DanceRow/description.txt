@@ -1,1 +1,1 @@
-Dance with your Arduboy on DanceRow. With your keypad’s arrow, match the arrow on the screen. You’ll got points based on how close you dance to the beat :)
+Dance with your Arduboy on DanceRow. With your keypad's arrow, match the arrow on the screen. You'll got points based on how close you dance to the beat :)
