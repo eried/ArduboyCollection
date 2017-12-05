@@ -1,3 +1,3 @@
 A Simon-like game by Rednuht. The game is opensource, in pure potato-chip assembly, available here: jumpstation.co.uk/dreamcast/idoudo.html1
 
-Uses a port of Marcus Comstedt’s SoftVMS emulator to run in the Arduboy by FManga.
+(This game was adapted using an adapted version of Marcus Comstedt's SoftVMS emulator for Arduboy by FManga)
