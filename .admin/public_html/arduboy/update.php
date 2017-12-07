@@ -55,12 +55,31 @@ foreach($repo->tree as $f)
   
   if(strlen($s)>0)
   {
+  
+    // Special case for source.url
+    if($info["filename"] == 'source')
+      $s='sourceurl';
+      
     $path = $info["dirname"] /*. "/" . $info["filename"]*/;
-    $output[$path][strtolower($info["extension"])] = $f->path;
+    $output[$path][strtolower($s)] = $f->path;
   }
 }
 
 ?><pre><?php print_r($output); ?></pre><?php // */
+
+// Get URL
+function get_url($s)
+{
+  $url = '';
+  
+  if(strlen($s)>0)
+  {
+    $ss = get_data(g($s));
+    $url = trim(array_reverse(explode('URL=',$ss))[0]);
+  }
+
+  return $url;
+}
 
 // Full path
 function g($p)
@@ -75,7 +94,6 @@ $files = array();
 $names = array();
 
 echo 'Parsing output';
-//$Parsedown = new Parsedown();
 foreach($output as $k => $f)
 {
   if(strlen($k)>3)
@@ -92,22 +110,39 @@ foreach($output as $k => $f)
       $genre = $info["dirname"];
       @$s = $output[$k]['txt'];
       @$description = strlen($s)>0?get_data(g($s)):'';
-
-      // Get URL
-      @$s = $output[$k]['url'];
+      
+      // Get other data
+      $author = 'Unknown';
+      $modified = '2017-01-01T12:00:00Z';
+      
+      @$s = $output[$k]['ini'];
       
       if(strlen($s)>0)
       {
-        $ss = get_data(g($s));
-        $url = trim(array_reverse(explode('URL=',$ss))[0]);
+        $ini = parse_ini_string(get_data(g($s)));
+
+        if(strlen($ini['author'])>0)
+          $author = $ini['author'];
+          
+        if(strlen($ini['date'])>0)
+          $modified = $ini['date'];
+        
+        if(strlen($ini['description'])>0)
+          $description = $ini['description'];
+        
+        if(strlen($ini['title'])>0)
+          $title = $ini['title'];
       }
 
+      // Get URL
+      $url = get_url($output[$k]['url']);
+      $sourceUrl = get_url($output[$k]['sourceurl']);
+      
+      if(strlen($sourceUrl)==0)
+        $sourceUrl = $url;
+      
       $screenshots = array();
-      
-      $hex = array(array("title"=>$title,"filename"=>g($bin),"device"=>"Arduboy"));
-      
-      //$modified = date ("Y-m-d H:i:s", remoteFileData($bin));
-      $modified = "";//remoteFileData($bin);
+      $hex = array(array("title"=>$title,"filename"=>g($bin),"device"=>"Arduboy"));;
       
       @$s = $output[$k]['png'];
       $banner = strlen($s)>0?g($s):'';
@@ -121,7 +156,7 @@ foreach($output as $k => $f)
       $names[] = $title;
       $files[] = array("title"=>trim($title),
       "description"=>trim($description),
-      "genre"=>$genre,"url"=>$url,"banner"=>$banner,"date"=>$modified,"binaries"=>$hex,"screenshots"=>$screenshots, "arduboy"=>"");
+      "genre"=>$genre,"url"=>$url,"sourceUrl"=>$sourceUrl,"author"=>$author,"banner"=>$banner,"date"=>$modified,"binaries"=>$hex,"screenshots"=>$screenshots, "arduboy"=>"");
     }
   }
 } 
@@ -132,8 +167,7 @@ echo 'Writing results';
 array_multisort($names,SORT_STRING | SORT_FLAG_CASE,$files);
 
 $values = array("repository"=>"Erwin's Arduboy Collection", "api-version"=>"1.0", "email"=>"", "maintainer"=>"Erwin Ried","website"=>"http://ried.cl","items"=>array_values($files));
-
-file_put_contents("repo.json",json_encode(utf8ize($values),JSON_PRETTY_PRINT)); 
+file_put_contents("repo.json",json_encode($values,JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_QUOT | JSON_HEX_AMP | JSON_PRETTY_PRINT)); 
 
 echo  json_last_error();
 
