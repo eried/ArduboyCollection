@@ -119,7 +119,7 @@ foreach($output as $k => $f)
       
       if(strlen($s)>0)
       {
-        $ini = parse_ini_string(get_data(g($s)));
+        $ini = parse_ini_string(get_data(g($s)),FALSE,INI_SCANNER_RAW);
 
         if(strlen($ini['author'])>0)
           $author = $ini['author'];
