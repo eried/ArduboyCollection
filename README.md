@@ -30,11 +30,11 @@ http://arduboy.ried.cl/repo.json
 
 | Filename | Description |
 | ------ | ------ |
-| somefile.hex | Binary file for the Arduboy |
+| anything.hex | Binary file for the Arduboy |
 | anything.png | Banner image / screenshot of the game |
 |description.txt| (Optional, deprecated) Contains the description to be parsed |
 |game.ini|Text file with information of the game (check below for format details)|
-|website.url|Contains the URL (using the typical browser format for bookmark files, check below)|
+|anything.url|Contains the URL (using the typical browser format for bookmark files, check below)|
 |source.url| (Optional) Contains the URL of the source code of the game|
 
 4. Create a Pull request with your changes
@@ -47,6 +47,7 @@ author=Author
 description=Description of the game
 ```
 ### .url format
+__TIP:__ You can drag from the left side of your browser's address bar to a folder to get the .url file of the current webpage
 ```
 [InternetShortcut]
 URL=https://url.to/the/website
