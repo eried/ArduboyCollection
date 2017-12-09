@@ -14,12 +14,15 @@ http://arduboy.ried.cl/repo.json
 
 2. Browse this repository using http://arduboy.ried.cl, if you clicked yes to the _arduboy: protocol_ association when installing Arduboy Uploader, you can click "Upload to my Arduboy", otherwise just download the games and open Arduboy Uploader manually
 
+_Also, check out [other alternatives](https://community.arduboy.com/t/how-to-upload-a-hex-to-the-arduboy/4081) for this platform._
 
 ### Android
 
-1. Install [Arduboy Mate](https://play.google.com/store/apps/details?id=de.mockfrog.arduboymate&hl=en)
+1. Install [Arduboy Utility](https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil)
 
-2. Add http://arduboy.ried.cl/repo.json as one of the sources for the app
+2. Click "Upload to my Arduboy" in http://arduboy.ried.cl and follow Arduboy Utility steps in your phone
+
+_Also, check out [other alternatives](https://play.google.com/store/apps/details?id=de.mockfrog.arduboymate&hl=en) for this platform._
 
 ![Demo](/demo.jpg)
 
