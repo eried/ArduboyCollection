@@ -22,7 +22,7 @@ _Also, check out [other alternatives](https://community.arduboy.com/t/how-to-upl
 
 2. Click "Upload to my Arduboy" in http://arduboy.ried.cl and follow Arduboy Utility steps in your phone
 
-_Also, check out [other alternatives](https://play.google.com/store/apps/details?id=de.mockfrog.arduboymate&hl=en) for this platform._
+_Also, check out [other alternatives](https://play.google.com/store/apps/details?id=de.mockfrog.arduboymate) for this platform._
 
 ![Demo](/demo.jpg)
 

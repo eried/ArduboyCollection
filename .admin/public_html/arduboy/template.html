@@ -29,7 +29,7 @@
 							
 							<p>Install <a href="https://github.com/eried/ArduboyUploader/releases/latest">Arduboy Uploader</a> <i class="fa fa-windows" aria-hidden="true"></i> to transfer them instantly from this list</p>
 							
-							<p>Use the <a href="http://arduboy.ried.cl/repo.json">repo.json</a> as a source for your own application or directly in <a href="https://play.google.com/store/apps/details?id=de.mockfrog.arduboymate&hl=en">Arduboy Mate</a> <i class="fa fa-android" aria-hidden="true"></i></p>
+							<p>Use the <a href="http://arduboy.ried.cl/repo.json">repo.json</a> as a source for your own application or directly in <a href="https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil">Arduboy Utility</a> <i class="fa fa-android" aria-hidden="true"></i></p>
 						<p><i class="fa fa-filter" aria-hidden="true"></i> <span class="tags-container row"></span></p>
 						</header>
 						<p> </p><a href="#main" class="more">Learn More</a>
@@ -91,10 +91,20 @@
       $(".customprotocol").click(function (event) {
           window.protocolCheck($(this).attr("href"),
               function () {
-                  var ask = window.confirm("You need 'Arduboy Uploader' to transfer games to your Arduboy. Do you want to open the download page?");
+                  var ua = navigator.userAgent.toLowerCase();
+                  var q = "You need 'Arduboy Uploader' to transfer games to your Arduboy from Windows. Do you want to open the download page?";
+                  var url = 'https://github.com/eried/ArduboyUploader/releases/latest';
+                  
+                  if(ua.indexOf("android") > -1)
+                  {
+                    q = "You need 'Arduboy Utility' to transfer games to your Arduboy from Android. Do you want to open the download page?";
+                    url = 'https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil';
+                  }
+      
+                  var ask = window.confirm(q);
                   
                   if(ask)
-                    window.open('https://github.com/eried/ArduboyUploader/releases/latest');
+                    window.open(url);
               });
           event.preventDefault ? event.preventDefault() : event.returnValue = false;
           });
