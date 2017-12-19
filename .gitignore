@@ -2,3 +2,4 @@ src/
 .admin/public_html/arduboy/config.php
 .admin/removed_games_because_bugs/*
 .admin/removed_games_due_request/*
+*.db
