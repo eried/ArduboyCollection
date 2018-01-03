@@ -177,13 +177,22 @@ foreach($output as $k => $f)
   }
 } 
 
-echo 'Writing results';
+echo '<br>Writing results';
 
 // Sorting
 array_multisort($names,SORT_STRING | SORT_FLAG_CASE,$files);
 
 $values = array("repository"=>"Erwin's Arduboy Collection", "api-version"=>"1.0", "email"=>"", "maintainer"=>"Erwin Ried","website"=>"http://ried.cl","items"=>array_values($files));
-file_put_contents("repo.json",json_encode($values,JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_QUOT | JSON_HEX_AMP | JSON_PRETTY_PRINT)); 
+file_put_contents("repo.json",json_encode(utf8ize($values),JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_QUOT | JSON_HEX_AMP | JSON_PRETTY_PRINT)); 
+
+// Mode debug
+echo '<br>json encode result: ';
+echo json_last_error();
+echo '<br>';
+print_r($values);
+echo '<br>';
+echo '<br>';
+
 
 echo  json_last_error();
 
@@ -200,4 +209,4 @@ $template = file_get_contents("http://arduboy.ried.cl/template.html");
 $m = new Mustache_Engine;
 file_put_contents("index.html",$m->render($template, $values));
 
-echo 'Done';
+echo '<br>Done';
