@@ -90,6 +90,15 @@ function g($p)
   return "{$server}{$repopath}master/{$p}";
 }
 
+// URL exist, from: http://www.barattalo.it/coding/test-if-a-remote-url-exists-with-php-and-curl/
+function url_exists($url) 
+{
+    $h = get_headers($url);
+    $status = array();
+    preg_match('/HTTP\/.* ([0-9]+) .*/', $h[0] , $status);
+    return ($status[1] == 200);
+}
+
 $files = array();
 $names = array();
 
@@ -126,6 +135,13 @@ foreach($output as $k => $f)
           
         if(strlen($ini['date'])>0)
           $modified = $ini['date'];
+        
+        // Remote hex location  
+        if(strlen($ini['hex'])>0)
+        {
+          if(url_exists($ini['hex']))
+            $bin = $ini['hex'];
+        }
         
         if(strlen($ini['description'])>0)
           $description = $ini['description'];

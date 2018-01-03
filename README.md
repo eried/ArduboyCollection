@@ -49,6 +49,11 @@ date=yyyy-MM-ddTHH:mm:ssZ
 author=Author
 description=Description of the game
 ```
+
+You can also add the following entry to reference a remote file. If you are linking to github, make sure it is the "Raw" version of the url and not the github details for the file.
+```
+hex=http://url.to/your/own/server-with-the/game.hex
+```
 ### .url format
 __TIP:__ You can drag from the left side of your browser's address bar to a folder to get the .url file of the current webpage
 ```
