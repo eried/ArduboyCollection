@@ -1,0 +1,59 @@
+
+/* Filter */
+#category {
+    display: inline;
+    width: 50%;
+}
+
+#search {
+    border: 1px solid rgba(144,144,144,0.2);
+    background: rgba(144,144,144,0.1);
+}
+
+btn-toggle {
+	padding: 5px;
+	background-color: rgba(144,144,144,0.1);
+    border: 1px solid rgba(144,144,144,0.2);
+    position: relative;
+    top: 3px;
+    font-size: 0.9em;
+}
+
+#category option {
+	color: #333;
+}
+
+btn-toggle.first{
+	border-radius: 6px 0 0 6px;
+}
+
+btn-toggle.last{
+	border-radius: 0 6px 6px 0;
+}
+
+p[data-current-sort=data-item-timestamp] .sort-data-item-timestamp,
+p[data-current-sort=data-item-title] .sort-data-item-title,
+p[data-current-sort=data-item-author] .sort-data-item-author,
+#newOnly.active
+	{
+	background-color: rgba(127,127,127,0.5);
+}
+
+.box {
+    position: relative;
+    overflow: hidden;
+}
+.box[data-item-new=true]:after {
+    content: 'New!';
+    position: absolute;
+    background-color: yellow;
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    top: 0;
+    left: 0;
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    transform: translate(-40px, 5px) rotate(-45deg);
+}
