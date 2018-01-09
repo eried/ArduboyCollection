@@ -10,7 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="assets/css/tagsort.min.css" />
+		<link rel="stylesheet" href="assets/css/filter.css" />
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	</head>
@@ -29,7 +29,15 @@
 							
 							<p>Install <a href="https://github.com/eried/ArduboyUploader/releases/latest">Arduboy Uploader</a> <i class="fa fa-windows" aria-hidden="true"></i> or <a href="https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil">Arduboy Utility</a> <i class="fa fa-android" aria-hidden="true"></i> to transfer them instantly from this list</p>
 							<p>Use the <a href="http://arduboy.ried.cl/repo.json">repo.json</a> as a source for your own application</p>
-						<p><i class="fa fa-filter" aria-hidden="true"></i> <span class="tags-container row"></span></p>
+
+							<p>
+								VIEW: <select id="category"><option value="">Select category</option></select> <btn-toggle id="newOnly">NEW ONLY</btn-toggle>
+							</p>
+							<p>
+								SORT: <btn-toggle class="first" data-sort-by="data-item-timestamp">DATE</btn-toggle><btn-toggle data-sort-by="data-item-title">NAME</btn-toggle><btn-toggle class="last" data-sort-by="data-item-author">AUTHOR</btn-toggle>
+								| SEARCH: <input id="search">
+							</p>
+	
 						</header>
 						<p> </p><a href="#main" class="more">Learn More</a>
 					</div>
@@ -83,7 +91,7 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/protocolcheck.js"></script>
-			<script src="assets/js/tagsort.min.js"></script>
+			<script src="assets/js/filter.js"></script>
       <script>
       // Check custom protocol
       $(function () {
@@ -109,9 +117,7 @@
           });
       });
       // Tags
-      $(function(){
-        $('span.tags-container').tagSort({items:'.box', fadeTime:500, tagElement:'span', /*tagClassPrefix:'color-', */sortType: 'single'});
-      });
+	  initFilter();
       </script>
       
 	</body>
