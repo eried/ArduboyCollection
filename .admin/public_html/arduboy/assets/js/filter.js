@@ -12,8 +12,8 @@ function initFilter( _settings ){
 
         newOnly:false,
         currentCategory:'',
-        sort: 'data-item-title',
-        sortAsc:true,
+        sort: 'data-item-timestamp',
+        sortAsc:false,
         search: ''
     };
 

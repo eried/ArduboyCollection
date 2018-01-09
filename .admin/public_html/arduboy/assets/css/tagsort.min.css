@@ -1,3 +1,0 @@
-.tags-container span{/*display:inline-block;border:2px solid #CCC;line-height:10px;*/display:inline-block;font-size:24px;margin:5px;cursor:pointer;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out}
-
-.tags-container span:hover{border:1px;border-style: none none dotted none;}.tags-container span.tagsort-active{border:1px;border-style: none none solid none;}

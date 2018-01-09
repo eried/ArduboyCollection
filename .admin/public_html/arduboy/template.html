@@ -30,12 +30,9 @@
 							<p>Install <a href="https://github.com/eried/ArduboyUploader/releases/latest">Arduboy Uploader</a> <i class="fa fa-windows" aria-hidden="true"></i> or <a href="https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil">Arduboy Utility</a> <i class="fa fa-android" aria-hidden="true"></i> to transfer them instantly from this list</p>
 							<p>Use the <a href="http://arduboy.ried.cl/repo.json">repo.json</a> as a source for your own application</p>
 
-							<p>
-								VIEW: <select id="category"><option value="">Select category</option></select> <btn-toggle id="newOnly">NEW ONLY</btn-toggle>
-							</p>
-							<p>
-								SORT: <btn-toggle class="first" data-sort-by="data-item-timestamp">DATE</btn-toggle><btn-toggle data-sort-by="data-item-title">NAME</btn-toggle><btn-toggle class="last" data-sort-by="data-item-author">AUTHOR</btn-toggle>
-								| SEARCH: <input id="search">
+							<p data-current-sort="data-item-timestamp"><btn-toggle id="newOnly"><i class="fa fa-star" aria-hidden="true"></i>Only new</btn-toggle> <i class="fa fa-filter" aria-hidden="true"></i> <select id="category"><option value="">(Select category)</option></select>
+
+								<i class="fa fa-sort" aria-hidden="true"></i><btn-toggle class="first" data-sort-by="data-item-timestamp">Date</btn-toggle><btn-toggle data-sort-by="data-item-title">Name</btn-toggle><btn-toggle class="last" data-sort-by="data-item-author">Author</btn-toggle><i class="fa fa-search" aria-hidden="true"></i> <input id="search">
 							</p>
 	
 						</header>
@@ -50,7 +47,7 @@
 					<!-- Boxes -->
 						<div class="thumbnails">
 {{#items}}
-							<div class="box" data-item-tags="{{genre}}">
+							<div class="box" data-item-tags="{{genre}}" data-item-date="{{date}}">
 								<a class="image fit"><img src="{{banner}}" alt="" /></a>
 								<div class="inner">
 									<h3>{{title}} by <a href="{{sourceUrl}}" title="View source code" target="_blank" >{{author}}</a></h3>
@@ -80,7 +77,7 @@
 							<li><a href="https://www.youtube.com/user/eried" target="_blank" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
 							<li><a href="https://ried.cl" target="_blank" class="icon fa-home"><span class="label">Website</span></a></li>
 						</ul>
-						<p class="copyright">&copy; 2017 - Erwin Ried. Design: <a href="https://templated.co">TEMPLATED</a>.</p>
+						<p class="copyright">&copy; 2018 by <a href="http://ried.cl">Erwin Ried</a>. Thanks to <a href="https://community.arduboy.com/t/arduboy-repo-any-expert-in-jquery-js/4795">FManga</a> for the filtering scripts. Design: <a href="https://templated.co">TEMPLATED</a>.</p>
 					</div>
 				</footer>
 		<!-- Scripts -->

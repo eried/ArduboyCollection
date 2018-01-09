@@ -2,7 +2,7 @@
 /* Filter */
 #category {
     display: inline;
-    width: 50%;
+    width: 20%;
 }
 
 #search {
@@ -43,17 +43,18 @@ p[data-current-sort=data-item-author] .sort-data-item-author,
     position: relative;
     overflow: hidden;
 }
+
 .box[data-item-new=true]:after {
     content: 'New!';
     position: absolute;
     background-color: yellow;
     color: black;
-    font-size: 1.5em;
-    font-weight: bold;
+    font-size: 1em;
+    font-weight:bolder;
     top: 0;
     left: 0;
-    width: 130px;
-    height: 40px;
+    width: 120px;
+    height: 25px;
     text-align: center;
-    transform: translate(-40px, 5px) rotate(-45deg);
+    transform: translate(-43px, 5px) rotate(-45deg);
 }
