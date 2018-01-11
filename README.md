@@ -49,6 +49,7 @@ date=yyyy-MM-ddTHH:mm:ssZ
 author=Author
 description=Description of the game
 ```
+Instead of typing the date and time for the `date` variable, you can use: https://www.utctime.net/
 
 You can also add the following entry to reference a remote file. If you are linking to github, make sure it is the "Raw" version of the url and not the github details for the file.
 ```
