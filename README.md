@@ -6,7 +6,7 @@ http://arduboy.ried.cl
 Json file for the repository:
 http://arduboy.ried.cl/repo.json
 
-## Loading the games
+## Play games
 
 ### Windows
 
@@ -14,7 +14,7 @@ http://arduboy.ried.cl/repo.json
 
 2. Browse this repository using http://arduboy.ried.cl, if you clicked yes to the _arduboy: protocol_ association when installing Arduboy Uploader, you can click "Upload to my Arduboy", otherwise just download the games and open Arduboy Uploader manually
 
-_Also, check out [other alternatives](https://community.arduboy.com/t/how-to-upload-a-hex-to-the-arduboy/4081) for this platform._
+_Also, check out [alternatives](https://community.arduboy.com/t/how-to-upload-a-hex-to-the-arduboy/4081) for this platform._
 
 ### Android
 
@@ -22,25 +22,25 @@ _Also, check out [other alternatives](https://community.arduboy.com/t/how-to-upl
 
 2. Click "Upload to my Arduboy" in http://arduboy.ried.cl and follow Arduboy Utility steps in your phone
 
-_Also, check out [other alternatives](https://play.google.com/store/apps/details?id=de.mockfrog.arduboymate) for this platform._
+_Also, check out [alternatives](https://play.google.com/store/apps/details?id=de.mockfrog.arduboymate) for this platform._
 
 ![Demo](/demo.jpg)
 
-## How to submit your game
+## Submit your game
 1. Fork this repo
-2. Create a new folder for your game under a category (you cannot create new categories, so choose one of the current available ones)
-3. Inside that directory place the following files:
+2. Create a new folder for your game under an existent category folder (i.e. Arcade, RPG, etc)
+3. Inside your folder, place:
 
 | Filename | Description |
 | ------ | ------ |
-| anything.hex | Binary file for the Arduboy |
+| anything.hex | Your compiled game for the Arduboy, _go to next section for more details_ |
 | anything.png | Banner image / screenshot of the game |
 |description.txt| (Optional, deprecated) Contains the description to be parsed |
 |game.ini|Text file with information of the game (check below for format details)|
 |anything.url|Contains the URL (using the typical browser format for bookmark files, check below)|
 |source.url| (Optional) Contains the URL of the source code of the game|
 
-4. Create a Pull request with your changes
+4. Sync your fork and Create a Pull request
 
 ### game.ini format
 ```
@@ -63,3 +63,11 @@ URL=https://url.to/the/website
 ```
 
 A webhook updates the repository static json file after a commit automatically. 
+
+### Get your game.hex file
+
+1. Open your code in Arduino IDE
+2. Click `Sketch / Export compiled Binary`
+3. Click `Sketch / Show Sketch Folder`
+
+__WARNING:__ Do not use the `with_bootloader.leonardo.hex` file. This file may brick your Arduboy. [Arduboy Uploader](https://github.com/eried/ArduboyUploader/releases/latest) will protect your Arduboy from this kind of issues, but if you manage to brick your device, check the following [instructions](https://community.arduboy.com/t/bring-your-arduboy-back-from-the-dead-burn-bootloader/3422)
