@@ -33,7 +33,7 @@ _Also, check out [alternatives](https://play.google.com/store/apps/details?id=de
 
 | Filename | Description |
 | ------ | ------ |
-| anything.hex | Your compiled game for the Arduboy, _go to next section for more details_ |
+| anything.hex | Your compiled game for the Arduboy (go to _next section_ for more details) |
 | anything.png | Banner image / screenshot of the game |
 |description.txt| (Optional, deprecated) Contains the description to be parsed |
 |game.ini|Text file with information of the game (check below for format details)|
