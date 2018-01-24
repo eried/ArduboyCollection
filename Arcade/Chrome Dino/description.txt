@@ -1,4 +1,1 @@
-title=Chrome Dino
-date=2016-05-01T13:25:29Z
-author=flaki
-description=I've recreated Chrome's (in?)famous dino side-scroller running-man-style dino jumper. It's just a quick hack, certainly unfinished and unoptimized but you might enjoy it.
+I've recreated Chrome's (in?)famous dino side-scroller running-man-style dino jumper. It's just a quick hack, certainly unfinished and unoptimized but you might enjoy it.
