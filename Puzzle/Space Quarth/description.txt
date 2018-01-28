@@ -1,0 +1,13 @@
+Space Quarth is a combination of a puzzle and a recreational game. Your task is to create a rectangle from different figures by adding cubes.
+
+In Game
+
+On the left hand you see your current level. There are 8 levels in the game. Every level has 10 stages.
+
+On the right side you can see your current points. Every cube you destroy gives you one point. However, if you destroy several objects at once, the points are multiplied by the number of objects. Therefore, it is always better to build a large rectangle with several objects if you have enough time to do so.
+
+Above your spaceship, you'll see a crosshair. Your shot is taken there and added to the respective object.
+
+There are 10 different object types. Each object can also be a special object: When the object is filled in white, all other objects on the screen disappear when you destroy it. 
+
+Pressing the A button will pause the game. If you have activated the Save option, you can now turn off your device and it will restart at the same location when you turn it back on.
