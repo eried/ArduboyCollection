@@ -48,8 +48,11 @@ title=Game name
 date=yyyy-MM-ddTHH:mm:ssZ
 author=Author
 description=Description of the game
+license=Identifier of the license used in the game
 ```
 Instead of typing the date and time for the `date` variable, you can use: https://www.utctime.net/
+
+For the `license` variable, you need to use one of the identifiers defined here: https://spdx.org/licenses/
 
 You can also add the following entry to reference a remote file. If you are linking to github, make sure it is the "Raw" version of the url and not the github details for the file.
 ```
