@@ -1,2 +1,0 @@
-i4arduboy is a horizontal shmup. Control a submarine and snipe far enemies on off-screen with torpedos!
-This is a porting from our windows work i-20000.

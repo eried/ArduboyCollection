@@ -1,3 +1,0 @@
-A very simple fidget spinner simulator for Arduboy, as if there aren't enough fidget spinners already.
-
-You can spin the spinner clockwise or counter-clockwise, as well as change the design of the spinner.

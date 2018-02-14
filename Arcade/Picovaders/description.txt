@@ -1,1 +1,0 @@
-picovaders is a space invaders-like shooting game for Arduboy.

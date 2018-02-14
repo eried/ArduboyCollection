@@ -1,3 +1,0 @@
-CosmicPods is a tiny shoot-'em-up game for Arduboy.
-
-As cosmic squid, shoot octopuses up!

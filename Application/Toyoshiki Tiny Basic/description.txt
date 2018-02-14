@@ -1,1 +1,0 @@
-Toyoshiki Tiny Basic is a Tiny BASIC interpreter that receives input from a serial device connected via USB. Note that a serial monitor program, such as Tera Term, is required to use this application.

@@ -1,3 +1,0 @@
-In Harambe's Revenge, you play as a phantasmal Harambe that has returned from the afterlife to convert oblivious tourists into mutant zombie gorilla minions which will then protect him. The zoo had to close down in quarantine, trapping many tourists inside.
-
-Harambe's path is a peaceful one so he has no actual attack. His specialty is the HARAMBE DASH - the ability to run faster that a speeding bullet. Press a button and Harambe's speed will temporarily increase. The RGB LED will shine YELLOW while Harambe is using his power. RED means his stamina is regenerating, and GREEN means he is ready to use another HARAMBE DASH.

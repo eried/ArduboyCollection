@@ -1,1 +1,0 @@
-It's a shoot 'em up quite hard, with 3 ship to choose from (different speed and weapons), 5 enemies with different characteristics, three big bosses, bomb and power-up, highscore and so on.

@@ -1,1 +1,0 @@
-The goal of this game is to fly pizza delivery missions throughout the TRAPPIST-1 system in the alloted time (or the pizza is free!). This game utilizes the n-body simulation I developed for HANS, and actually requires you to use your knowledge of orbital mechanics to match orbits with your destination planet.

@@ -1,1 +1,0 @@
-Shooting game for Arduboy. Mission: Destroy aliens

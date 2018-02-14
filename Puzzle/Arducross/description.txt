@@ -1,1 +1,0 @@
-Very simple, very early Picross clone. Currently has 16 boards, some of which are from Mario's Picross for the Gameboy.

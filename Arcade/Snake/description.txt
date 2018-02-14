@@ -1,3 +1,0 @@
-A Snake game by Stu. Any other information on it seems to have bitrotted away completely.
-
-(This game was adapted using an adapted version of Marcus Comstedt's SoftVMS emulator for Arduboy by FManga)

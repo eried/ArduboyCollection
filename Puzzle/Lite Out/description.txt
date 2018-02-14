@@ -1,1 +1,0 @@
-Lite/Out is a game where you have to turn off all of the lights, but every time you change a light, the surrounding lights change. The game consists of a 5-by-5 grid where some of the blocks are lit up. You'll complete the level when all of the blocks are not lit.

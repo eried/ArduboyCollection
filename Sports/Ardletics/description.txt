@@ -1,2 +1,0 @@
-Athletics game for Arduboy.
-At the moment I have a playable proof of concept of what would be the basis of the game (including smooth animations and digitized sound).
