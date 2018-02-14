@@ -35,7 +35,7 @@ _Also, check out [alternatives](https://play.google.com/store/apps/details?id=de
 | ------ | ------ |
 | anything.hex | Your compiled game for the Arduboy (check [below](#get-your-gamehex-file) for more details) |
 | anything.png | Banner image / screenshot of the game |
-| anything.url | Contains the URL for the game description (using the typical browser format for bookmark files, check [below](#url-format))|
+| anything.url | Game details URL (using the typical browser format for bookmark files, check [below](#url-format))|
 | game.ini | Information of the game (check [below](#gameini-format) for format details)|
 | source.url | (Optional) Contains the URL of the source code of the game|
 
