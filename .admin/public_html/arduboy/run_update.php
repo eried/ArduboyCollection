@@ -122,7 +122,7 @@ foreach($output as $k => $f)
       // Get other data
       $author = 'Unknown';
       $modified = '2017-01-01T12:00:00Z';
-      $license = 'Unspecified'
+      $license = 'Unspecified';
       
       @$s = $output[$k]['ini'];
       
