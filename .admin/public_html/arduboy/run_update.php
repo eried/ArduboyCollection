@@ -122,6 +122,7 @@ foreach($output as $k => $f)
       // Get other data
       $author = 'Unknown';
       $modified = '2017-01-01T12:00:00Z';
+      $license = 'Unspecified'
       
       @$s = $output[$k]['ini'];
       
@@ -147,6 +148,9 @@ foreach($output as $k => $f)
         
         if(strlen($ini['title'])>0)
           $title = $ini['title'];
+          
+        if(strlen($ini['license'])>0)
+          $license = $ini['license'];
       }
 
       // Get URL
@@ -171,7 +175,7 @@ foreach($output as $k => $f)
       $names[] = $title;
       $files[] = array("title"=>trim($title),
       "description"=>trim($description),
-      "genre"=>$genre,"url"=>$url,"sourceUrl"=>$sourceUrl,"author"=>$author,"banner"=>$banner,"date"=>$modified,"binaries"=>$hex,"screenshots"=>$screenshots, "arduboy"=>"");
+      "genre"=>$genre,"url"=>$url,"sourceUrl"=>$sourceUrl,"author"=>$author,"banner"=>$banner,"date"=>$modified,"binaries"=>$hex,"screenshots"=>$screenshots,"license"=>$license, "arduboy"=>"");
     }
   }
 } 
