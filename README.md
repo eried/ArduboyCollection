@@ -35,10 +35,9 @@ _Also, check out [alternatives](https://play.google.com/store/apps/details?id=de
 | ------ | ------ |
 | anything.hex | Your compiled game for the Arduboy (check [below](#get-your-gamehex-file) for more details) |
 | anything.png | Banner image / screenshot of the game |
-|description.txt| (Optional, deprecated) Contains the description to be parsed |
-|game.ini|Text file with information of the game (check [below](#gameini-format) for format details)|
-|anything.url|Contains the URL (using the typical browser format for bookmark files, check [below](#url-format))|
-|source.url| (Optional) Contains the URL of the source code of the game|
+| anything.url | Contains the URL for the game description (using the typical browser format for bookmark files, check [below](#url-format))|
+| game.ini | Information of the game (check [below](#gameini-format) for format details)|
+| source.url | (Optional) Contains the URL of the source code of the game|
 
 4. Sync your fork and Create a Pull request
 
