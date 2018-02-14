@@ -137,7 +137,7 @@ foreach($output as $k => $f)
           $modified = $ini['date'];
         
         // Remote hex location  
-        if(strlen($ini['hex'])>0)
+        if(@strlen($ini['hex'])>0)
         {
           if(url_exists($ini['hex']))
             $bin = $ini['hex'];
@@ -149,7 +149,7 @@ foreach($output as $k => $f)
         if(strlen($ini['title'])>0)
           $title = $ini['title'];
           
-        if(strlen($ini['license'])>0)
+        if(@strlen($ini['license'])>0)
           $license = $ini['license'];
       }
 
