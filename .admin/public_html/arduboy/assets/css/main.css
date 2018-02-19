@@ -1192,6 +1192,15 @@
 			margin: 0;
 		}
 
+		#banner h1 + .subheadline {
+			margin-top: -1em;
+			margin-bottom: 1em;
+		}
+
+		#banner .howto {
+			text-align: left;
+		}
+
 			@media screen and (max-width: 980px) {
 
 				#banner h1 {
