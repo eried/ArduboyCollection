@@ -25,29 +25,29 @@
 					<div class="inner">
 						<header>
 							<h1>{{repository}}</h1>
-							<p class="subheadline">A curated list of games for the <a href="https://arduboy.com/" target="_blank">Arduboy</a> handheld.</p>
+							<p class="subheadline">A curated list of games for the <a href="https://arduboy.com/" target="_blank">Arduboy</a></p>
 
 							<div class="howto">
-								<ol>
-									<li><strong>To install games</strong>, install <a href="https://github.com/eried/ArduboyUploader/releases/latest">Arduboy Uploader</a> <i class="fa fa-windows" aria-hidden="true"></i> or <a href="https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil">Arduboy Utility</a> <i class="fa fa-android" aria-hidden="true"></i> to transfer them instantly from this list.</li>
-									<li><strong>To submit games</strong> to this repo, check and submit your applications directly in <a href="https://github.com/eried/ArduboyCollection">Github</a> <i class="fa fa-github-alt" aria-hidden="true"></i></li>
-									<li>Use the <a href="http://arduboy.ried.cl/repo.json">repo.json</a> as a source to <strong>build your own application</strong> based on this repo.</li>
-								</ol>
+								<ul>
+									<li>To <strong>transfer</strong> games or apps from this list to your Arduboy, you need to install <a href="https://github.com/eried/ArduboyUploader/releases/latest">Arduboy Uploader</a> <i class="fa fa-windows" aria-hidden="true"></i> and/or <a href="https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil">Arduboy Utility</a> <i class="fa fa-android" aria-hidden="true"></i></li>
+									<li>To <strong>submit</strong> your games to this repository, go to <a href="https://github.com/eried/ArduboyCollection">Github</a> <i class="fa fa-github-alt" aria-hidden="true"></i> and follow the instructions</li>
+									<li>Use the <a href="http://arduboy.ried.cl/repo.json">repo.json</a> as a source to <strong>build</strong> your own application using this repo</li>
+								</ul>
 							</div>
 
 							<div class="filters">
 
 								<div class="new filter-button filter">
 									<btn-toggle id="newOnly">
-										<i class="fa fa-star" aria-hidden="true"></i>
-										Only new
+										<i class="fa fa-calendar" aria-hidden="true"></i>
+										New
 									</btn-toggle>
 								</div>
 
 								<div class="libre filter-button filter">
 									<btn-toggle id="libreOnly">
 										<i class="fa fa-star" aria-hidden="true"></i>
-										Libre games
+										Libre
 									</btn-toggle>
 								</div>
 
@@ -67,7 +67,7 @@
 
 								<div class="search-bar filter">
 									<i class="fa fa-search" aria-hidden="true"></i>
-									<input id="search" placeholder="Search&hellip;">
+									<input id="search" placeholder="Search">
 								</div>
 							</div>
 
@@ -90,6 +90,7 @@
 									<p>{{description}}</p>
 									{{#license}}
 									<p class="license">{{license}} <i class="fa fa-balance-scale"></i></p>
+									{{/license}}
 									{{^license}}
 									<p class="license"><em>Proprietary</em></p>
 									{{/license}}
