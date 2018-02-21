@@ -205,8 +205,7 @@ echo 'Creating website';
 require 'Mustache/Autoloader.php';
 Mustache_Autoloader::register();
 
-$template = file_get_contents("http://arduboy.ried.cl/template.html");
-//$values = json_decode(file_get_contents("http://arduboy.ried.cl/repo.json"));
+$template = file_get_contents("template.html");
 
 //start the mustache engine
 $m = new Mustache_Engine;
