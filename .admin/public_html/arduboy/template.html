@@ -25,16 +25,52 @@
 					<div class="inner">
 						<header>
 							<h1>{{repository}}</h1>
-							<p>Check and submit your applications directly in <a href="https://github.com/eried/ArduboyCollection">Github</a> <i class="fa fa-github-alt" aria-hidden="true"></i></p>
-							
-							<p>Install <a href="https://github.com/eried/ArduboyUploader/releases/latest">Arduboy Uploader</a> <i class="fa fa-windows" aria-hidden="true"></i> or <a href="https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil">Arduboy Utility</a> <i class="fa fa-android" aria-hidden="true"></i> to transfer them instantly from this list</p>
-							<p>Use the <a href="http://arduboy.ried.cl/repo.json">repo.json</a> as a source for your own application</p>
+							<p class="subheadline">A curated list of games for the <a href="https://arduboy.com/" target="_blank">Arduboy</a></p>
 
-							<p data-current-sort="data-item-timestamp"><btn-toggle id="newOnly"><i class="fa fa-star" aria-hidden="true"></i>Only new</btn-toggle> <i class="fa fa-filter" aria-hidden="true"></i> <select id="category"><option value="">(Select category)</option></select>
+							<div class="howto">
+								<ul>
+									<li>To <strong>transfer</strong> games or apps from this list to your Arduboy, you need to install <a href="https://github.com/eried/ArduboyUploader/releases/latest">Arduboy Uploader</a> <i class="fa fa-windows" aria-hidden="true"></i> and/or <a href="https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil">Arduboy Utility</a> <i class="fa fa-android" aria-hidden="true"></i></li>
+									<li>To <strong>submit</strong> your games to this repository, go to <a href="https://github.com/eried/ArduboyCollection">Github</a> <i class="fa fa-github-alt" aria-hidden="true"></i> and follow the instructions</li>
+									<li>Use the <a href="http://arduboy.ried.cl/repo.json">repo.json</a> as a source to <strong>build</strong> your own application using this repo</li>
+								</ul>
+							</div>
 
-								<i class="fa fa-sort" aria-hidden="true"></i><btn-toggle class="first" data-sort-by="data-item-timestamp">Date</btn-toggle><btn-toggle data-sort-by="data-item-title">Name</btn-toggle><btn-toggle class="last" data-sort-by="data-item-author">Author</btn-toggle><i class="fa fa-search" aria-hidden="true"></i> <input id="search">
-							</p>
-	
+							<div class="filters">
+
+								<div class="new filter-button filter">
+									<btn-toggle id="newOnly">
+										<i class="fa fa-calendar" aria-hidden="true"></i>
+										New
+									</btn-toggle>
+								</div>
+
+								<div class="libre filter-button filter">
+									<btn-toggle id="libreOnly">
+										<i class="fa fa-star" aria-hidden="true"></i>
+										Libre
+									</btn-toggle>
+								</div>
+
+								<div class="category-filter filter">
+									<i class="fa fa-filter" aria-hidden="true"></i>
+									<select id="category">
+										<option value="">(Select genre)</option>
+									</select>
+								</div>
+
+								<div class="sort-filter filter" data-current-sort="data-item-timestamp">
+									<i class="fa fa-sort" aria-hidden="true"></i>
+									<btn-toggle class="first" data-sort-by="data-item-timestamp">Date</btn-toggle>
+									<btn-toggle data-sort-by="data-item-title">Name</btn-toggle>
+									<btn-toggle class="last" data-sort-by="data-item-author">Author</btn-toggle>
+								</div>
+
+								<div class="search-bar filter">
+									<i class="fa fa-search" aria-hidden="true"></i>
+									<input id="search" placeholder="Search">
+								</div>
+							</div>
+
 						</header>
 						<p> </p><a href="#main" class="more">Learn More</a>
 					</div>
@@ -47,12 +83,17 @@
 					<!-- Boxes -->
 						<div class="thumbnails">
 {{#items}}
-							<div class="box" data-item-tags="{{genre}}" data-item-date="{{date}}">
+							<div class="box" data-item-tags="{{genre}}" data-item-date="{{date}}" data-item-license="{{license}}">
 								<a class="image fit"><img src="{{banner}}" alt="" /></a>
 								<div class="inner">
 									<h3>{{title}} by <a href="{{sourceUrl}}" title="View source code" target="_blank" >{{author}}</a></h3>
 									<p>{{description}}</p>
+									{{#license}}
 									<p class="license">{{license}} <i class="fa fa-balance-scale"></i></p>
+									{{/license}}
+									{{^license}}
+									<p class="license"><em>Proprietary</em></p>
+									{{/license}}
 									<a href="{{url}}" target="_blank" class="button fit">More information</a>
 									{{#binaries}}
 									<a href="arduboy:{{filename}}" class="button style2 fit customprotocol">Upload to my Arduboy <i class="fa fa-magic" aria-hidden="true"></i></a>
@@ -99,15 +140,15 @@
                   var ua = navigator.userAgent.toLowerCase();
                   var q = "You need 'Arduboy Uploader' to transfer games to your Arduboy from Windows. Do you want to open the download page?";
                   var url = 'https://github.com/eried/ArduboyUploader/releases/latest';
-                  
+
                   if(ua.indexOf("android") > -1)
                   {
                     q = "You need 'Arduboy Utility' to transfer games to your Arduboy from Android. Do you want to open the download page?";
                     url = 'https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil';
                   }
-      
+
                   var ask = window.confirm(q);
-                  
+
                   if(ask)
                     window.open(url);
               });
@@ -117,6 +158,6 @@
       // Tags
 	  initFilter();
       </script>
-      
+
 	</body>
 </html>
