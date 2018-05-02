@@ -168,7 +168,13 @@ foreach($output as $k => $f)
 
       if(strlen($banner)<=3)
       {
-        @$s = $output[$k]['jpg'];
+        @$s = $output[$k]['gif']; // Second priority, animated gifs
+        $banner = strlen($s)>0?g($s):'';
+      }
+
+      if(strlen($banner)<=3)
+      {
+        @$s = $output[$k]['jpg']; // As last resource, jpg
         $banner = strlen($s)>0?g($s):'';
       }
 
