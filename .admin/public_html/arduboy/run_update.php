@@ -191,7 +191,8 @@ echo '<br>Writing results';
 // Sorting
 array_multisort($names,SORT_STRING | SORT_FLAG_CASE,$files);
 
-$values = array("repository"=>"Erwin's Arduboy Collection", "api-version"=>"1.0", "email"=>"", "maintainer"=>"Erwin Ried","website"=>"http://ried.cl","items"=>array_values($files));
+$items = array_values($files);
+$values = array("repository"=>"Erwin's Arduboy Collection", "api-version"=>"1.0", "email"=>"", "maintainer"=>"Erwin Ried","website"=>"http://ried.cl","items"=>$items,"itemCount"=>count(items));
 file_put_contents("repo.json",json_encode(utf8ize($values),JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_QUOT | JSON_HEX_AMP | JSON_PRETTY_PRINT));
 
 // Mode debug
