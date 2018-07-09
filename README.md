@@ -18,7 +18,7 @@ _Also, check out [alternatives](https://community.arduboy.com/t/how-to-upload-a-
 
 ### Android
 
-1. Install [Arduboy Utility](https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil)
+1. Install [Arby Utility](https://play.google.com/store/apps/details?id=com.obnsoft.arduboyutil)
 
 2. Click "Upload to my Arduboy" in http://arduboy.ried.cl and follow Arduboy Utility steps in your phone
 
