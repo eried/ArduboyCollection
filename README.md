@@ -27,7 +27,7 @@ _Also, check out [alternatives](https://play.google.com/store/apps/details?id=de
 ![Demo](/demo.jpg)
 
 ## Submit your game
-1. Fork this repo (If you do not get what this step means, check: https://community.arduboy.com/t/big-asteroids/5994/7)
+1. Fork this repo (If you do not get what this step means, stop now and follow: https://community.arduboy.com/t/big-asteroids/5994/7)
 2. Create a new unique folder (case insensitive) for your game under an existent category folder (i.e. Arcade, RPG, etc)
 3. Inside your folder, place:
 
