@@ -27,7 +27,7 @@ _Also, check out [alternatives](https://play.google.com/store/apps/details?id=de
 ![Demo](/demo.jpg)
 
 ## Submit your game
-1. Fork this repo (If you do not get what this step means, stop now and follow: https://community.arduboy.com/t/big-asteroids/5994/7)
+1. Fork this repo (If you *do not get* what this step means, **stop** and follow [this steps](https://community.arduboy.com/t/big-asteroids/5994/7))
 2. Create a new unique folder (case insensitive) for your game under an existent category folder (i.e. Arcade, RPG, etc)
 3. Inside your folder, place:
 
@@ -59,7 +59,7 @@ You can also add the following entry to reference a remote file. If you are link
 hex=http://url.to/your/own/server-with-the/game.hex
 ```
 
-This file is parsed by http://php.net/manual/en/function.parse-ini-file.php, try to avoid trailing spaces.
+This file is parsed by php's [parse-ini-file](http://php.net/manual/en/function.parse-ini-file.php) function, try to avoid trailing spaces.
 
 ### .url format
 __TIP:__ You can drag from the left side of your browser's address bar to a folder to get the .url file of the current webpage
