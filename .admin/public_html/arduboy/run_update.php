@@ -5,7 +5,7 @@ if($s!=$secret_keywords) // Prevent abuse
   die('Not available');
 
 echo 'Starting update';
-unlink('pending_run');
+//unlink('pending_run');
 
 /* gets the data from a URL */
 function get_data($url)
@@ -77,15 +77,6 @@ function get_url($s)
   return $url;
 }
 
-// Full path
-function g($p)
-{
-  global $server, $repopath;
-
-  $p=rawurlencode($p);
-  return "{$server}{$repopath}master/{$p}";
-}
-
 // URL exist, from: http://www.barattalo.it/coding/test-if-a-remote-url-exists-with-php-and-curl/
 function url_exists($url)
 {
@@ -93,6 +84,18 @@ function url_exists($url)
     $status = array();
     preg_match('/HTTP\/.* ([0-9]+) .*/', $h[0] , $status);
     return ($status[1] == 200);
+}
+
+// Full path
+function g($p)
+{
+  if(stripos($p, '://') !== false)
+    return $p;
+    
+  global $server, $repopath;
+
+  $p=rawurlencode($p);
+  return "{$server}{$repopath}master/{$p}";
 }
 
 $files = array();
@@ -105,10 +108,12 @@ foreach($output as $k => $f)
   {
     $info = pathinfo($k);
     $title = $info["basename"];
-    @$bin = (string)($output[$k]['hex']);
+    
+    $t = $output[$k]['hex'];
+    @$bin = is_array($t)?$t[0]:$t;
 
-    //echo $k . ' value: ' . $f;
-    /*?><pre><?php print_r($output[$k]['hex']); ?></pre><?php // */
+    echo $k . ' value: ' . $f;
+    /* ?><pre><?php print_r($output[$k]['hex']); ?></pre><?php // */
 
     if(strlen($bin)>0)
     {
@@ -215,4 +220,3 @@ $template = file_get_contents("template.html");
 $m = new Mustache_Engine;
 file_put_contents("index.html",$m->render($template, $values));
 
-echo '<br>Done';
