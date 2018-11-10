@@ -89,6 +89,7 @@
 									<h3>{{title}} by <a href="{{sourceUrl}}" title="View source code" target="_blank" >{{author}}</a></h3>
 									<p>{{description}}</p>
 									{{#license}}
+									<div class="wpac-rating" data-wpac-chan="{{id}}"></div>
 									<p class="license">{{license}} <i class="fa fa-balance-scale"></i></p>
 									{{/license}}
 									{{^license}}
@@ -97,7 +98,7 @@
 									<a href="{{url}}" target="_blank" class="button fit">More information</a>
 									{{#binaries}}
 									<a href="arduboy:{{filename}}" class="button style2 fit customprotocol">Upload to my Arduboy <i class="fa fa-magic" aria-hidden="true"></i></a>
-									<a href="https://felipemanga.github.io/ProjectABE/?hex={{filename}}" target="_blank" class="button style2 fit">Play in emulator <i class="fa  fa fa-gamepad" aria-hidden="true"></i></a>
+									<a href="https://felipemanga.github.io/ProjectABE/?hex={{filename}}" target="_blank" class="button style2 fit">Play in emulator <i class="fa fa fa-gamepad" aria-hidden="true"></i></a>
 									<a href="{{filename}}" download target="_blank" class="button style3 fit">Download hex <i class="fa  fa-download" aria-hidden="true"></i></a>
 									{{/binaries}}
 								</div>
@@ -155,9 +156,22 @@
           event.preventDefault ? event.preventDefault() : event.returnValue = false;
           });
       });
-      // Tags
+    
+    // Tags
 	  initFilter();
-      </script>
 
+    // Rating system
+    wpac_init = window.wpac_init || [];
+    wpac_init.push({widget: 'Rating', id: 14914});
+    (function() {
+        if ('WIDGETPACK_LOADED' in window) return;
+        WIDGETPACK_LOADED = true;
+        var mc = document.createElement('script');
+        mc.type = 'text/javascript';
+        mc.async = true;
+        mc.src = 'https://embed.widgetpack.com/widget.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+    })();
+    </script>
 	</body>
 </html>

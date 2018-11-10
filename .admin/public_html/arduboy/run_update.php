@@ -183,7 +183,7 @@ foreach($output as $k => $f)
       $names[] = $title;
       $files[] = array("title"=>trim($title),
       "description"=>trim($description),
-      "genre"=>$genre,"url"=>$url,"sourceUrl"=>$sourceUrl,"author"=>$author,"banner"=>$banner,"date"=>$modified,"binaries"=>$hex,"screenshots"=>$screenshots,"license"=>$license, "arduboy"=>"");
+      "genre"=>$genre,"url"=>$url,"sourceUrl"=>$sourceUrl,"author"=>$author,"banner"=>$banner,"date"=>$modified,"binaries"=>$hex,"screenshots"=>$screenshots,"license"=>$license,"id"=>md5($author . '_' . $title), "arduboy"=>"");
     }
   }
 }
