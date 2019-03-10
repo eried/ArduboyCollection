@@ -1,0 +1,23 @@
+
+{{#items}}
+-------
+{{genre}}
+{{title}}
+{{description}}
+{{banner}}
+{{url}}
+{{#binaries}}
+{{filename}}
+{{/binaries}}
+{{/items}}
+
+
+
+
+
+GAME LIST
+{{#items}}
+{{genre}}/[{{title}}]({{url}})
+{{/items}}
+
+USE http://www.danstools.com/html-escape-unescape/
