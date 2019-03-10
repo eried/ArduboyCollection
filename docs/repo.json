@@ -1560,6 +1560,27 @@
             "arduboy": ""
         },
         {
+            "title": "Farkle",
+            "description": "A version of the classic dice game Farkle - a game of tactics and luck.",
+            "genre": "Puzzle",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Filmote and Vampirics",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FFarkle%2Fbanner.png",
+            "date": "2018-10-06T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "Farkle",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FFarkle%2FFarkle.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Apache V2",
+            "id": "9013d73b90e42911220293a4a7546138",
+            "arduboy": ""
+        },
+        {
             "title": "Fatsche",
             "description": "defend the door!",
             "genre": "Arcade",
@@ -1941,7 +1962,7 @@
             "title": "Is this? Loss - The Game",
             "description": "A memey game made in 2018 to represent a certain comic as a game",
             "genre": "Misc",
-            "url": "404: Not Found",
+            "url": "https:\/\/github.com\/turtleletortue\/isthisloss-arduboy",
             "sourceUrl": "https:\/\/github.com\/turtleletortue\/isthisloss-arduboy\/releases",
             "author": "turtleletortue",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FIs-this-loss%2Fbanner.png",
@@ -1949,7 +1970,7 @@
             "binaries": [
                 {
                     "title": "Is this? Loss - The Game",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FIs-this-loss%2Fisthisloss.hex",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FIs-this-loss%2FIs-this-loss.hex",
                     "device": "Arduboy"
                 }
             ],
@@ -3188,7 +3209,7 @@
             "binaries": [
                 {
                     "title": "Rogue",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FRogue%2FRogue.hex",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FRogue%2FRogue121.hex",
                     "device": "Arduboy"
                 }
             ],
@@ -4353,5 +4374,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "207"
+    "items-length": "208"
 }
