@@ -3,7 +3,7 @@
     "api-version": "1.0",
     "email": "",
     "maintainer": "Erwin Ried",
-    "website": "http:\/\/ried.cl",
+    "website": "http:\/\/arduboy.ried.cl",
     "items": [
         {
             "title": "101 Starships",
@@ -3713,12 +3713,12 @@
             "binaries": [
                 {
                     "title": "Starduino",
-                    "filename": "https:\/\/rv6502.ca\/packages\/starduino\/game.hex",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FStarduino%2Fgame.hex",
                     "device": "Arduboy"
                 }
             ],
             "screenshots": [],
-            "license": "Proprietary",
+            "license": "",
             "id": "878397d8fdd8917965115156ebc1cdf8",
             "arduboy": ""
         },
