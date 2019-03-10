@@ -5,9 +5,17 @@
 first field.
 * Paste http://arduboy.ried.cl/repo.json contents in the second field to test it without installing anything.
 
-# Running the updater
+# Updater
+
+# Requirements
 
   sudo apt install php7.0-cli
   sudo apt install php7.0-xml
   sudo apt install php-curl
+  
+# Running
+
   php update.php
+  git add ../*
+  git commit -m "Repository update"
+  git push
