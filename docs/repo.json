@@ -688,14 +688,14 @@
             "date": "2018-06-28T04:41:00Z",
             "binaries": [
                 {
-                    "title": "ASTEROIDS ",
+                    "title": "ASTEROIDS",
                     "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FASTEROIDS%2FASTEROIDS.hex",
                     "device": "Arduboy"
                 }
             ],
             "screenshots": [],
             "license": "GPL-2.0",
-            "id": "3c929d5be032af9fddace1047d67413e",
+            "id": "6a5b779336d2d501df67c8c24d377ba8",
             "arduboy": ""
         },
         {
@@ -1242,6 +1242,27 @@
             "screenshots": [],
             "license": "",
             "id": "70cd246295773f0d96f6712a9a5134c3",
+            "arduboy": ""
+        },
+        {
+            "title": "Crate Confusion",
+            "description": "Collect fuel, don\u0027t hit crates",
+            "genre": "Arcade",
+            "url": "https:\/\/github.com\/phoboslab\/arduboy-games",
+            "sourceUrl": "https:\/\/github.com\/phoboslab\/arduboy-games\/tree\/master\/crate-confusion",
+            "author": "Phoboslab",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FCrate%20Confusion%2Fscreenshot.png",
+            "date": "2019-03-15T10:15:29Z",
+            "binaries": [
+                {
+                    "title": "Crate Confusion",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FCrate%20Confusion%2FCrate%20Confusion.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "f2a304efc3658adb141a73ffc3772351",
             "arduboy": ""
         },
         {
@@ -4374,5 +4395,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "208"
+    "items-length": "209"
 }
