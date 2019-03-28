@@ -1644,6 +1644,27 @@
             "arduboy": ""
         },
         {
+            "title": "Fire",
+            "description": "A version of the classic Game and Watch game, Fire!",
+            "genre": "Action",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Filmote and Vampirics",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FFire%2Fbanner.png",
+            "date": "2019-03-25T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "Fire",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FFire%2FFirePanic.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "7d2c88652dce1f74bd2e02689f50c48d",
+            "arduboy": ""
+        },
+        {
             "title": "Flappy Ball",
             "description": "Try to overcome the force of gravity and navigate a levitating ball through small openings.",
             "genre": "Arcade",
@@ -1729,13 +1750,13 @@
         },
         {
             "title": "Game of Life",
-            "description": "This is a 25x25 Game of Life program for Arduboy.\\n\\nKEYS\\nA: Game start\\nB: Put live cell\\nDirection Keys: Move cell\\nUP and DOWN: Reset",
+            "description": "",
             "genre": "Demo",
             "url": "https:\/\/github.com\/ArduboyCollection\/lifegame_arduboy",
-            "sourceUrl": "https:\/\/github.com\/ArduboyCollection\/lifegame_arduboy",
-            "author": "kmasato (Masato Kobayashi)",
+            "sourceUrl": "500: Internal Server Error",
+            "author": "Unknown",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Demo%2FGame%20of%20Life%2FCapture.PNG",
-            "date": "2017-10-31T13:25:29Z",
+            "date": "2017-01-01T12:00:00Z",
             "binaries": [
                 {
                     "title": "Game of Life",
@@ -1745,7 +1766,7 @@
             ],
             "screenshots": [],
             "license": "",
-            "id": "def0c15e3101d1e26d2cfebe2b9e8a51",
+            "id": "8aa75b655258889fd9a4c7e5f9ba23ed",
             "arduboy": ""
         },
         {
@@ -4395,5 +4416,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "209"
+    "items-length": "210"
 }
