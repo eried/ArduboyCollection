@@ -1666,11 +1666,11 @@
         },
         {
             "title": "Fire",
-            "description": "A version of the classic Game and Watch game, Fire!",
+            "description": "A version of the classic Game and Watch game, Fire! Save the residents of the burning tower by catching them in your safety net and bouncing them into the awaiting ambulance. Once the ambulance is full, rush them to hospital for treatment.",
             "genre": "Action",
             "url": "",
             "sourceUrl": "",
-            "author": "Filmote and Vampirics",
+            "author": "Simon Holmes (filmote) and Stephane C (vampirics)",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FFire%2Fbanner.png",
             "date": "2019-03-25T13:25:27Z",
             "binaries": [
@@ -1682,7 +1682,7 @@
             ],
             "screenshots": [],
             "license": "MIT",
-            "id": "7d2c88652dce1f74bd2e02689f50c48d",
+            "id": "1ff58887dd17cbe3d82c160f27839ccb",
             "arduboy": ""
         },
         {
@@ -2132,7 +2132,7 @@
             "genre": "Action",
             "url": "",
             "sourceUrl": "",
-            "author": "Simon Holmes (filmote)",
+            "author": "Stephane C (vampirics) and Simon Holmes (filmote)",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FJunoFirst%2FJunoFirst_01.png",
             "date": "2018-05-02T13:25:27Z",
             "binaries": [
@@ -2144,7 +2144,7 @@
             ],
             "screenshots": [],
             "license": "BSD-3",
-            "id": "8c7102bc155bbf1281c1220f864efd89",
+            "id": "700db787256fbea04e3a4ce58e0a6e1f",
             "arduboy": ""
         },
         {
