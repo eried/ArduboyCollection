@@ -830,7 +830,7 @@
             "genre": "Misc",
             "url": "https:\/\/community.arduboy.com\/t\/blackjack-v1-0\/6668",
             "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/Blackjack\/",
-            "author": "Simon Holmes (filmote) \u0026 Stephance C (vampirics)",
+            "author": "Simon Holmes (filmote) \u0026 Stephane C (vampirics)",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FBlackjack%2FBlackjack.gif",
             "date": "2018-11-04T13:25:27Z",
             "binaries": [
@@ -842,7 +842,7 @@
             ],
             "screenshots": [],
             "license": "Apache-2.0",
-            "id": "46094b1b43585e4e20aadbb3c0abfa78",
+            "id": "b5c2c3d7509ba23c4b8a76d2bf46dfcc",
             "arduboy": ""
         },
         {
