@@ -447,6 +447,27 @@
             "arduboy": ""
         },
         {
+            "title": "ArduboyLife",
+            "description": "Conway\u0027s Life, a cellular automaton, for the Arduboy",
+            "genre": "Misc",
+            "url": "https:\/\/github.com\/MLXXXp\/ArduboyLife",
+            "sourceUrl": "https:\/\/github.com\/MLXXXp\/ArduboyLife",
+            "author": "Scott Allen (MLXXXp)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FArduboyLife%2Fbanner.png",
+            "date": "2019-05-10T00:00:00Z",
+            "binaries": [
+                {
+                    "title": "ArduboyLife",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FArduboyLife%2FArduboyLife.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "dc992e64a51ac8ea187dbd0bf4ecacf8",
+            "arduboy": ""
+        },
+        {
             "title": "ArduBOYNG",
             "description": "a simple PONG inspired game by an Arduboy noob",
             "genre": "Arcade",
@@ -4458,5 +4479,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "212"
+    "items-length": "213"
 }
