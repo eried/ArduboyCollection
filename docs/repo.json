@@ -3408,24 +3408,24 @@
             "arduboy": ""
         },
         {
-            "title": "SetNameAndID",
-            "description": "Manage an Arduboy\u0027s unit name and ID stored in the system EEPROM area",
+            "title": "SetSystemEEPROM",
+            "description": "Manage an Arduboy\u0027s system EEPROM area: unit name, unit ID, boot logo options. Also can reset the entire system or user EEPROM areas.",
             "genre": "Application",
-            "url": "https:\/\/github.com\/MLXXXp\/Arduboy2\/blob\/master\/examples\/SetNameAndID\/SetNameAndID.ino",
-            "sourceUrl": "https:\/\/github.com\/MLXXXp\/Arduboy2\/blob\/master\/examples\/SetNameAndID\/SetNameAndID.ino",
+            "url": "https:\/\/github.com\/MLXXXp\/Arduboy2",
+            "sourceUrl": "https:\/\/github.com\/MLXXXp\/Arduboy2\/blob\/master\/examples\/SetSystemEEPROM\/SetSystemEEPROM.ino",
             "author": "Scott Allen (MLXXXp)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FSetNameAndID%2F2017-05-04_15-42-05.png",
-            "date": "2017-05-02T13:36:45Z",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FSetSystemEEPROM%2F2017-05-04_15-42-05.png",
+            "date": "2019-05-17T00:00:00Z",
             "binaries": [
                 {
-                    "title": "SetNameAndID",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FSetNameAndID%2FSetNameAndID.hex",
+                    "title": "SetSystemEEPROM",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FSetSystemEEPROM%2FSetSystemEEPROM.hex",
                     "device": "Arduboy"
                 }
             ],
             "screenshots": [],
             "license": "BSD-3-Clause",
-            "id": "eab4ba7ffd490763adede31aa4e19d27",
+            "id": "e17c7b59b37d1b1cf5dcf450bec91aac",
             "arduboy": ""
         },
         {
