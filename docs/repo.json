@@ -4124,16 +4124,16 @@
         {
             "title": "Tiny-Bike",
             "description": "Tiny_Bike (like excite bike)",
-            "genre": "Arcade",
+            "genre": "Racing",
             "url": "https:\/\/sites.google.com\/view\/arduino-collection",
             "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
             "author": "Daniel Champagne (Electro L.I.B)",
-            "banner": "",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2Ftiny-bike%2FTiny-bike%20ardu.png",
             "date": "2019-06-06 T00:00:00Z",
             "binaries": [
                 {
                     "title": "Tiny-Bike",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2Ftiny-bike%2FTiny-Bike%20%28arduboy%29.hex",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2Ftiny-bike%2FTiny-Bike%20%28arduboy%29.hex",
                     "device": "Arduboy"
                 }
             ],
