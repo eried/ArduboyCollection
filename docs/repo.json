@@ -4122,6 +4122,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tiny-Bike",
+            "description": "Tiny_Bike (like excite bike)",
+            "genre": "Arcade",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel Champagne (Electro L.I.B)",
+            "banner": "",
+            "date": "2019-06-06 T00:00:00Z",
+            "binaries": [
+                {
+                    "title": "Tiny-Bike",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2Ftiny-bike%2FTiny-Bike%20%28arduboy%29.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "13c8c116c980e592dbc754d31b66c6db",
+            "arduboy": ""
+        },
+        {
             "title": "To",
             "description": "You are the developer of the door with the teleport function. But just before completion, someone is trying to destroy the door. There seems to be no choice but to distort the space with the power of the door and to prevent destruction.",
             "genre": "Action",
@@ -4500,5 +4521,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "214"
+    "items-length": "215"
 }
