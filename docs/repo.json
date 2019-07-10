@@ -3814,7 +3814,7 @@
             "sourceUrl": "https:\/\/rv6502.ca\/post\/2019\/01\/02\/starduino-for-arduboy-3d-gaming-inside-28kb\/",
             "author": "Stephane Hockenhull",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FStarduino%2FStarduino.png",
-            "date": "2019-01-02T01:01:01Z",
+            "date": "2019-07-09T01:01:01Z",
             "binaries": [
                 {
                     "title": "Starduino",
@@ -3825,6 +3825,27 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "878397d8fdd8917965115156ebc1cdf8",
+            "arduboy": ""
+        },
+        {
+            "title": "Starduino Turbo",
+            "description": "Defend your home planet in this endless rail shooter featuring true 3D graphics. Look out for the ever-increasing dangers as your score gets higher and higher. (50% higher FPS version)",
+            "genre": "Shooter",
+            "url": "https:\/\/rv6502.ca\/post\/2019\/07\/09\/starduino-turbo-for-arduboy-faster-3d-gaming-inside-28kb\/",
+            "sourceUrl": "https:\/\/rv6502.ca\/post\/2019\/07\/09\/starduino-turbo-for-arduboy-faster-3d-gaming-inside-28kb\/",
+            "author": "Stephane Hockenhull",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FStarduinoTurbo%2FStarduinoTurbo.png",
+            "date": "2019-07-09T01:01:01Z",
+            "binaries": [
+                {
+                    "title": "Starduino Turbo",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FStarduinoTurbo%2Fgame.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "b831bd7b052582b1ab1a8c4fbcadad05",
             "arduboy": ""
         },
         {
@@ -4542,5 +4563,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "216"
+    "items-length": "217"
 }
