@@ -4164,8 +4164,8 @@
             "arduboy": ""
         },
         {
-            "title": "Tiny-Bike",
-            "description": "Tiny_Bike (like excite bike)",
+            "title": "Tiny-Bike v1.2",
+            "description": "Tiny_Bike v1.2 (like excite bike)",
             "genre": "Racing",
             "url": "https:\/\/sites.google.com\/view\/arduino-collection",
             "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
@@ -4174,14 +4174,14 @@
             "date": "2019-06-06 T00:00:00Z",
             "binaries": [
                 {
-                    "title": "Tiny-Bike",
+                    "title": "Tiny-Bike v1.2",
                     "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2Ftiny-bike%2FTiny-Bike%20%28arduboy%29.hex",
                     "device": "Arduboy"
                 }
             ],
             "screenshots": [],
-            "license": "Proprietary",
-            "id": "13c8c116c980e592dbc754d31b66c6db",
+            "license": "GPLv3",
+            "id": "11258b4bc078ff4cfa66ea12aedb5fe9",
             "arduboy": ""
         },
         {
