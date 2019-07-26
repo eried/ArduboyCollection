@@ -709,14 +709,14 @@
             "date": "2018-06-28T04:41:00Z",
             "binaries": [
                 {
-                    "title": "ASTEROIDS",
+                    "title": "ASTEROIDS ",
                     "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FASTEROIDS%2FASTEROIDS.hex",
                     "device": "Arduboy"
                 }
             ],
             "screenshots": [],
             "license": "GPL-2.0",
-            "id": "6a5b779336d2d501df67c8c24d377ba8",
+            "id": "3c929d5be032af9fddace1047d67413e",
             "arduboy": ""
         },
         {
@@ -1998,6 +1998,27 @@
             "screenshots": [],
             "license": "MIT",
             "id": "d58d219bc5baadb782775b75bdd19e5f",
+            "arduboy": ""
+        },
+        {
+            "title": "HP35boy",
+            "description": "HP35 calculator emulator",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/what-if-arduboy-was-a-calculator\/8036\/26?u=eried",
+            "sourceUrl": "https:\/\/github.com\/eried\/HP35boy",
+            "author": "eried",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FHP35boy%2Fscreen.PNG",
+            "date": "2019-07-27T12:25:29Z",
+            "binaries": [
+                {
+                    "title": "HP35boy",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FHP35boy%2FHP35boy.ino.leonardo.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "ac1926af54ee6bc7f07febe29e35800d",
             "arduboy": ""
         },
         {
@@ -4563,5 +4584,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "217"
+    "items-length": "218"
 }
