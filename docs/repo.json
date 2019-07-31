@@ -709,14 +709,14 @@
             "date": "2018-06-28T04:41:00Z",
             "binaries": [
                 {
-                    "title": "ASTEROIDS ",
+                    "title": "ASTEROIDS",
                     "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FASTEROIDS%2FASTEROIDS.hex",
                     "device": "Arduboy"
                 }
             ],
             "screenshots": [],
             "license": "GPL-2.0",
-            "id": "3c929d5be032af9fddace1047d67413e",
+            "id": "6a5b779336d2d501df67c8c24d377ba8",
             "arduboy": ""
         },
         {
@@ -4206,6 +4206,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tiny-Trick",
+            "description": "Tiny-Trick (like Hat Trick c64)",
+            "genre": "Sports",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel Champagne (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Sports%2FTiny-Trick%2Ftiny-trick_pic.png",
+            "date": "2019-07-30 T00:00:00Z",
+            "binaries": [
+                {
+                    "title": "Tiny-Trick",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Sports%2FTiny-Trick%2Ftiny-trick.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "5b5a2630a6befb1365a149a474741b80",
+            "arduboy": ""
+        },
+        {
             "title": "To",
             "description": "You are the developer of the door with the teleport function. But just before completion, someone is trying to destroy the door. There seems to be no choice but to distort the space with the power of the door and to prevent destruction.",
             "genre": "Action",
@@ -4584,5 +4605,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "218"
+    "items-length": "219"
 }
