@@ -3660,6 +3660,27 @@
             "arduboy": ""
         },
         {
+            "title": "Space Battle - Trench Run",
+            "description": "Trench Run is an Arcade game where you play as a rebel pilot on the Doom Sphere assault. You have to fight against Imperial fighters to reach the Exhaustion Port and deliver the shot that will ultimately destroy the battle station.",
+            "genre": "Action",
+            "url": "https:\/\/community.arduboy.com\/t\/trench-run-a-star-wars-mission\/8075",
+            "sourceUrl": "https:\/\/github.com\/lscardinali\/TrenchRun-Arduboy",
+            "author": "Lucas Cardinali (lscardinali)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FTrench%20Run%2Fscreenshot.png",
+            "date": "2019-08-06T05:46:03Z",
+            "binaries": [
+                {
+                    "title": "Space Battle - Trench Run",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FTrench%20Run%2FTrenchRun-v1.1.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "483f7c3129b6dd5d42630284d69f000e",
+            "arduboy": ""
+        },
+        {
             "title": "Space Cab",
             "description": "An arcade game inspired a lot by Space Taxi that was released on the Commodore 64.",
             "genre": "Arcade",
@@ -4287,27 +4308,6 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "d52727067ec06f02b67a89628b500f4f",
-            "arduboy": ""
-        },
-        {
-            "title": "Trench Run",
-            "description": "Trench Run is an Arcade game where you play as a rebel pilot on the Death Star assault. You have to fight against Tie-Fighters to reach the Exhaustion Port and deliver the shot that will ultimately destroy the battle station.",
-            "genre": "Action",
-            "url": "https:\/\/community.arduboy.com\/t\/trench-run-a-star-wars-mission\/8075",
-            "sourceUrl": "https:\/\/github.com\/lscardinali\/TrenchRun-Arduboy",
-            "author": "Lucas Cardinali (lscardinali)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FTrench%20Run%2Fscreenshot.png",
-            "date": "2019-08-06T05:46:03Z",
-            "binaries": [
-                {
-                    "title": "Trench Run",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FTrench%20Run%2FTrenchRun-v1.hex",
-                    "device": "Arduboy"
-                }
-            ],
-            "screenshots": [],
-            "license": "MIT",
-            "id": "f5959cfbe2c4a2d11e2870febcdf89d5",
             "arduboy": ""
         },
         {
