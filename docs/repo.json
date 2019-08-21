@@ -1371,6 +1371,27 @@
             "arduboy": ""
         },
         {
+            "title": "Cribbage",
+            "description": "The classic Cribbage card game.",
+            "genre": "Puzzle",
+            "url": "https:\/\/community.arduboy.com\/t\/cribbage-v1-0-1\/8122",
+            "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/Cribbage\/",
+            "author": "Simon Holmes (filmote) \u0026 Stephance C (vampirics)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FCribbage%2Fscreenshot_07.png",
+            "date": "2019-08-21T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "Cribbage",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FCribbage%2FCribbage.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD 3-Clause License",
+            "id": "3cec1207e7ad8a092b3171fd576c6dbe",
+            "arduboy": ""
+        },
+        {
             "title": "Cripple Mr Onion!",
             "description": "It\u0027s a like a hilariously complicated combination of poker and blackjack, using an 8-suited deck. You can customize your character, accumulate money through betting, etc. As you gain money, your \u0027rank\u0027 increases, with the ultimate goal of being rich enough to become the Patrician of Ankh-Morpork!",
             "genre": "Puzzle",
@@ -1544,19 +1565,19 @@
             "genre": "Puzzle",
             "url": "https:\/\/community.arduboy.com\/t\/domino-all-fives\/3708",
             "sourceUrl": "https:\/\/github.com\/ArduboyCollection\/DominoesArduboy",
-            "author": "Filmote",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FDominoes%20%27All%20Fives%27%2Fdomino_01.png",
+            "author": "Simon Holmes (filmote) \u0026 Stephance C (vampirics)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FDominoes%20%27All%20Fives%27%2Fscreenshot07.png",
             "date": "2017-10-31T13:25:29Z",
             "binaries": [
                 {
                     "title": "Dominoes \u0027All Fives\u0027",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FDominoes%20%27All%20Fives%27%2FDominoes%20%27All%20Fives%27.hex",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FDominoes%20%27All%20Fives%27%2FDominoes.hex",
                     "device": "Arduboy"
                 }
             ],
             "screenshots": [],
             "license": "BSD-3-Clause",
-            "id": "9727c104dca40875a78b942cdd6648e9",
+            "id": "df40a221bdedb2af3104fa41c5be1f25",
             "arduboy": ""
         },
         {
@@ -4626,5 +4647,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "220"
+    "items-length": "221"
 }
