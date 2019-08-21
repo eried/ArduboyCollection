@@ -1377,7 +1377,7 @@
             "url": "https:\/\/community.arduboy.com\/t\/cribbage-v1-0-1\/8122",
             "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/Cribbage\/",
             "author": "Simon Holmes (filmote) \u0026 Stephance C (vampirics)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FCribbage%2Fscreenshot_07.png",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FCribbage%2FBanner.png",
             "date": "2019-08-21T13:25:27Z",
             "binaries": [
                 {
@@ -1563,10 +1563,10 @@
             "title": "Dominoes \u0027All Fives\u0027",
             "description": "All Fives is a popular variant of Dominoes where players the goal of the game is not just to go out, but to make the open ends of the layout add up to 5 (or a multiple of five).",
             "genre": "Puzzle",
-            "url": "https:\/\/community.arduboy.com\/t\/domino-all-fives\/3708",
-            "sourceUrl": "https:\/\/github.com\/ArduboyCollection\/DominoesArduboy",
+            "url": "https:\/\/community.arduboy.com\/t\/domino-all-fives-two-player\/8087",
+            "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/Dominoes",
             "author": "Simon Holmes (filmote) \u0026 Stephance C (vampirics)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FDominoes%20%27All%20Fives%27%2Fscreenshot07.png",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FDominoes%20%27All%20Fives%27%2Fbanner.png",
             "date": "2017-10-31T13:25:29Z",
             "binaries": [
                 {
