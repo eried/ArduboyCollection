@@ -4213,7 +4213,7 @@
             "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
             "author": "Daniel Champagne (Electro L.I.B)",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FTiny-Bert%2FTINYBERT.png",
-            "date": "2019-05-04T20:00:00Z",
+            "date": "2019-01-01T09:46:27Z",
             "binaries": [
                 {
                     "title": "Tiny-Bert",
@@ -4222,7 +4222,7 @@
                 }
             ],
             "screenshots": [],
-            "license": "Proprietary",
+            "license": "GPLv3",
             "id": "b8bb940d0bd4c50eddc13d26cb502611",
             "arduboy": ""
         },
