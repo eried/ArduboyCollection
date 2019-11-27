@@ -321,6 +321,27 @@
             "arduboy": ""
         },
         {
+            "title": "Ardu-EZ Button",
+            "description": "The Ardu-EZ button is the perfect way to relish your daily successes! Just one press and you\u0092ll be greeted with a satisfying reminder of the ease with which you dispatch even the most pesky problems",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/ardu-ez-button\/8322",
+            "sourceUrl": "https:\/\/github.com\/shiyouganai\/ardu-ez_button\/",
+            "author": "shiyouganai",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArdu-EZ%20Button%2Fcf696322eac33361244f996beeca1f5160b0a9a4.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Ardu-EZ Button",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArdu-EZ%20Button%2Fardu-ez_button_v1.0.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD-3-Clause",
+            "id": "4ad32074c87519d6fec74a313be49b3d",
+            "arduboy": ""
+        },
+        {
             "title": "Ardu-man",
             "description": "Re-live the nostalgic glory of games like Pac-Man and Lock \u0027n\u0027 Chase (with a few less pixels...) right on your Arduboy!",
             "genre": "Arcade",
@@ -405,6 +426,27 @@
             "arduboy": ""
         },
         {
+            "title": "Arduboy Calendar",
+            "description": "You can go through all the dates but saving the notes to the eeprom is not implemented correctly",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/arduboy-calendar\/8323",
+            "sourceUrl": "https:\/\/community.arduboy.com\/t\/arduboy-calendar\/8323",
+            "author": "hartmann1301",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduboy%20Calendar%2FArduboyCapture.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Arduboy Calendar",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduboy%20Calendar%2FCalendarApp.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "5d8146029ca6f86be62ef4cf71a3aca6",
+            "arduboy": ""
+        },
+        {
             "title": "Arduboy Gamepad",
             "description": "Maps Arduboy buttons to keyboard keys",
             "genre": "Application",
@@ -447,6 +489,27 @@
             "arduboy": ""
         },
         {
+            "title": "Arduboy Sprite Editor",
+            "description": "ASE - a sprite editor for Arduboy games that runs on the Arduboy.",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/arduboy-sprite-editor-ase\/8315",
+            "sourceUrl": "https:\/\/github.com\/pmwasson\/ASE",
+            "author": "Paul Wasson",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduboy%20Sprite%20Editor%2F38d89d6467a067cd6e2a9e51a350040a8c1b4072.jpg",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Arduboy Sprite Editor",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduboy%20Sprite%20Editor%2FASE.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "6a4b3fc19856f1d7ad83fd16002f0fc4",
+            "arduboy": ""
+        },
+        {
             "title": "ArduboyLife",
             "description": "Conway\u0027s Life, a cellular automaton, for the Arduboy",
             "genre": "Misc",
@@ -486,6 +549,48 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "37b389738f637533b2aa0ce397442da8",
+            "arduboy": ""
+        },
+        {
+            "title": "ArduBrain",
+            "description": "ArduBrain is an application that helps you keeping your brain sharp training your reflexes, memory, focus and much more!",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/ardubrain-a-brain-trainer\/8301",
+            "sourceUrl": "https:\/\/github.com\/renato-grottesi\/arduboy\/tree\/master\/ardubrain",
+            "author": "renato-grottesi",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduBrain%2FArduboyCapture.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "ArduBrain",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduBrain%2Fardubrain.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "1086f6b6562982c535d53b43e870fc68",
+            "arduboy": ""
+        },
+        {
+            "title": "ArduCC",
+            "description": "Change your credit card sized gaming system into a real credit card",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/arducc-save-your-credit-card-information-inside-your-credit-card-sized-gaming-system\/8317",
+            "sourceUrl": "https:\/\/github.com\/madya121\/ArduCC",
+            "author": "Vincentius Madya",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduCC%2FArduboyCapture.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "ArduCC",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduCC%2FCreditCard.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "0de255cbcb35b36cb864321f0de580f9",
             "arduboy": ""
         },
         {
@@ -573,6 +678,27 @@
             "arduboy": ""
         },
         {
+            "title": "ArduMetronome",
+            "description": "A simple metronome",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/ardumetronome\/8289",
+            "sourceUrl": "https:\/\/github.com\/ajsaucier\/ArduMetronome\/releases",
+            "author": "raspberrybrain",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduMetronome%2F8c95f1a0d83f3aa55f00c1cae3c2416a45c5210b.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "ArduMetronome",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduMetronome%2FArduMetronome.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Apache-2.0",
+            "id": "5f6e2fb95ca181ccd23c65b7498c8baa",
+            "arduboy": ""
+        },
+        {
             "title": "Arduminer",
             "description": "Mining, crafting and combat on your arduboy. Explore 64 procedurally generated levels, conquer dungeons and upgrade your kit to survive progressively stronger enemies.",
             "genre": "RPG",
@@ -615,6 +741,27 @@
             "arduboy": ""
         },
         {
+            "title": "ArduSaver",
+            "description": "Do you feel your OLED is suffering from critical levels of burn-in? Is nostalgia spoiling your working day? ArduSaver to the rescue!",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/ardusaver-quite-useless\/8321",
+            "sourceUrl": "https:\/\/github.com\/BertVeer\/ArduSaver",
+            "author": "Bert Veer",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduSaver%2F7570948d45fd01c65327872818271c32590fd849.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "ArduSaver",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduSaver%2FArduSaver.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "df7e289ef374d10b5efc5797b8da5a78",
+            "arduboy": ""
+        },
+        {
             "title": "Arduslide",
             "description": "simple tile slide game",
             "genre": "Puzzle",
@@ -654,6 +801,27 @@
             "screenshots": [],
             "license": "GPL-3.0",
             "id": "fd8a676aafbbb47cbe474b7ecf71cc3a",
+            "arduboy": ""
+        },
+        {
+            "title": "Ardutosh",
+            "description": "Ardutosh is an OS\/desktop environment for the Arduboy made for the Arduboy game jam 4 (theme: not a game)",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/ardutosh-classic-macintosh-style-desktop-environment\/8298",
+            "sourceUrl": "https:\/\/github.com\/jhhoward\/Ardutosh",
+            "author": "James Howard",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduTosh%2FArduboyCapture.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Ardutosh",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArduTosh%2FArdutosh.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "a5a81321e11b6c22139646d44c36bf99",
             "arduboy": ""
         },
         {
@@ -930,6 +1098,27 @@
             "arduboy": ""
         },
         {
+            "title": "Book Reader - The Pig and the Box",
+            "description": "portable book reader",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/book-reader-the-pig-and-the-box\/8292",
+            "sourceUrl": "https:\/\/gitlab.com\/drummyfish\/book_reader",
+            "author": "drummyfish",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FBook%20Reader%2Fe07e824267473ba325313b75601778c83fb1d12c.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Book Reader - The Pig and the Box",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FBook%20Reader%2Fbook_arduboy_pig.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "CC0",
+            "id": "199c820b7a5814959584554a52a579f0",
+            "arduboy": ""
+        },
+        {
             "title": "Boris goes skiing",
             "description": "A clone of the ZX Spectrum game Horace goes skiing for the Arduboy",
             "genre": "Arcade",
@@ -1161,6 +1350,27 @@
             "arduboy": ""
         },
         {
+            "title": "Chirp",
+            "description": "Make someone go crazy with your Arduboy. Just hide it, he will briefly chirp every 1 to 15 minutes.",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/chirp-most-useless\/8309",
+            "sourceUrl": "https:\/\/github.com\/eried\/Chirp",
+            "author": "eried",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FChirp%2F59984552d6eb8a6ac4e0798d996d245983af8c94_2_1000x1000.jpg",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Chirp",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FChirp%2FCricket.ino.leonardo.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "403ec3c839f837d3e2259ecab44f914f",
+            "arduboy": ""
+        },
+        {
             "title": "Choplifter",
             "description": "The classic Choplifter game for the Arduboy!",
             "genre": "Action",
@@ -1242,6 +1452,27 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "27ad5e660fa6c09d06926290f5bf27c8",
+            "arduboy": ""
+        },
+        {
+            "title": "Coder\u0027s Toolbox",
+            "description": "A toolbox of tools for developing ArduboyTones compatible music and Sprites compatible images",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/coders-toolbox-game-jam-4\/8279",
+            "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/CodersToolbox",
+            "author": "Filmote and Vampirics",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FCoder%27s%20Toolbox%2F3aa2126435186c5997527a93a169307b07ba662f.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Coder\u0027s Toolbox",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FCoder%27s%20Toolbox%2FToolbox.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD-3-Clause",
+            "id": "7b1f125fe8b25000b68db1f43ef3b839",
             "arduboy": ""
         },
         {
@@ -1581,6 +1812,27 @@
             "arduboy": ""
         },
         {
+            "title": "Egg Master Pro 2020",
+            "description": "The Ultimate Egg Timer for Arduboy",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/egg-master-pro-2020\/8316",
+            "sourceUrl": "https:\/\/github.com\/BertVeer\/EggMasterPro2020",
+            "author": "Bert Veer",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FEgg%20Master%20Pro%202020%2Fscreenshot.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Egg Master Pro 2020",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FEgg%20Master%20Pro%202020%2FEggMasterPro2020.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "cecfc639935ddf84eb29a3355fe091ef",
+            "arduboy": ""
+        },
+        {
             "title": "Epic Mini Games!",
             "description": "This is a compilation of FUN mini games that I hope you will like. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)",
             "genre": "Action",
@@ -1893,6 +2145,27 @@
             "screenshots": [],
             "license": "MIT",
             "id": "6d564e511fe5f9800da17b26ae668fc5",
+            "arduboy": ""
+        },
+        {
+            "title": "Graph 2",
+            "description": "Fully-functional graphing calculator",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/graph-2-graphing-calculator-for-arduboy-2\/8304",
+            "sourceUrl": "https:\/\/github.com\/TheV360\/ArduboyGraph2",
+            "author": "V360",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FGraph%202%2FArduboyCapture.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Graph 2",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FGraph%202%2F--graph2--.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "38c28c6275a3e6961c4e4b3b00f28121",
             "arduboy": ""
         },
         {
@@ -2379,6 +2652,27 @@
             "arduboy": ""
         },
         {
+            "title": "Light Meter",
+            "description": "This sketch turns an Arduboy miniature game system into a crude light meter by using the red LED of the RGB LED as a sensor",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/light-meter\/8325",
+            "sourceUrl": "https:\/\/github.com\/MLXXXp\/ArduboyLightMeter",
+            "author": "MLXXXp",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FLight%20Meter%2Fmain.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Light Meter",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FLight%20Meter%2FArduboyLightMeter.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD-3-Clause",
+            "id": "d95467b91e2cef23f37c931719bd03a3",
+            "arduboy": ""
+        },
+        {
             "title": "Lite Out",
             "description": "Lite\/Out is a game where you have to turn off all of the lights, but every time you change a light, the surrounding lights change. The game consists of a 5-by-5 grid where some of the blocks are lit up. You\u0027ll complete the level when all of the blocks are not lit.",
             "genre": "Puzzle",
@@ -2526,6 +2820,27 @@
             "arduboy": ""
         },
         {
+            "title": "Love Tester",
+            "description": "A homage to Gunpei Yokoi, and a ridiculous entry to the Arduboy not a game Jam",
+            "genre": "Application",
+            "url": "https:\/\/github.com\/Pharap\/LoveTester",
+            "sourceUrl": "https:\/\/github.com\/Pharap\/LoveTester",
+            "author": "Pharap",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FLove%20Tester%2FArduboyCapture.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Love Tester",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FLove%20Tester%2FLoveTester.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Apache-2.0",
+            "id": "0bfc027dc9abb7aac487afea78e23826",
+            "arduboy": ""
+        },
+        {
             "title": "LoveRush",
             "description": "A simple infinite shoot em up where you need to gather hearts to build-up your shields and shoot those angry faces rushing on you. You get an extra shield for every 15 hearts you gather. Speed goes up after a certain amount of points you make. What\u0027s your high score?",
             "genre": "Arcade",
@@ -2544,6 +2859,27 @@
             "screenshots": [],
             "license": "MIT",
             "id": "e0c5a0ec448913f679cf0186179fe7bc",
+            "arduboy": ""
+        },
+        {
+            "title": "Magic 8 Arduball",
+            "description": "Just ask something and the arduino will predict the better answer for your question",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/magic-8-arduball-most-useless\/8313",
+            "sourceUrl": "https:\/\/www.dropbox.com\/s\/3vf2vdournim72w\/ArduboyMagic8Ball.ino?dl=0",
+            "author": "GnobarEl",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FMagic%208%20Arduball%2F1dd76c5600053cae8f3eb56df3de257689965ac0.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Magic 8 Arduball",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FMagic%208%20Arduball%2FArduboyProject.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "10a806507316734ba543cb6d14573491",
             "arduboy": ""
         },
         {
@@ -2754,6 +3090,27 @@
             "screenshots": [],
             "license": "Apache-2.0",
             "id": "95fc067636736d10dde01d9198a2260a",
+            "arduboy": ""
+        },
+        {
+            "title": "MUGICGEN POCKET is",
+            "description": "8bit mugic generator for Arduboy",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/musicgen-pocket\/8308",
+            "sourceUrl": "https:\/\/github.com\/inajob\/musicgen-pocket",
+            "author": "inajob",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FMusicgen%20Pocket%2FCapture.PNG",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "MUGICGEN POCKET is",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FMusicgen%20Pocket%2Fmusicgen-pocket.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "98758820e18503129b9b17398fa16c78",
             "arduboy": ""
         },
         {
@@ -3027,6 +3384,27 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "02f9e5ed3ef578772a329147f04b1fcc",
+            "arduboy": ""
+        },
+        {
+            "title": "PI 24k",
+            "description": "You can see 24,576 digits of circular constant",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/pi-24k-a-browser-of-circular-constant\/8290",
+            "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks",
+            "author": "obono",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FPI%2024k%2FArduboyCapture.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "PI 24k",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FPI%2024k%2Fpi24k_v0.03.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "8d9ac2ca68cf8b25eef1546ad2e7e620",
             "arduboy": ""
         },
         {
@@ -3447,6 +3825,27 @@
             "screenshots": [],
             "license": "BSD-3-Clause",
             "id": "f7adab997f6d4d097a8fe30f41cfd238",
+            "arduboy": ""
+        },
+        {
+            "title": "Self destruct message",
+            "description": "This program will erase itself after viewing the secret message for 5 seconds.",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/self-destruct-mesage\/8326",
+            "sourceUrl": "https:\/\/github.com\/MrBlinky\/Arduboy\/blob\/master\/selfdestructmessage\/selfdestructmessage.ino",
+            "author": "Mr. Blinky",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FSelf%20Destruct%20Message%2FCapture.PNG",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Self destruct message",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FSelf%20Destruct%20Message%2Fselfdestructmessage.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "95e81b7e33041dc27ecbf22402dc3dbb",
             "arduboy": ""
         },
         {
@@ -4374,6 +4773,27 @@
             "arduboy": ""
         },
         {
+            "title": "TTyGO",
+            "description": "VT220 serial terminal for Arduino",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/a-full-vt220-serial-terminal-emulator\/8287",
+            "sourceUrl": "https:\/\/github.com\/innovationgarage\/TTyGO",
+            "author": "Innovation Garage",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FVT220%20Serial%20Terminal%20Emulator%2FCapture.PNG",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "TTyGO",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FVT220%20Serial%20Terminal%20Emulator%2FTTyGO.arduino.avr.leonardo.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "5a2eefce7aa381a5fc161408f35cf5f3",
+            "arduboy": ""
+        },
+        {
             "title": "Turtle Bridge",
             "description": "A version of the classic Game and Watch game, Turtle Bridge!",
             "genre": "Arcade",
@@ -4392,6 +4812,27 @@
             "screenshots": [],
             "license": "MIT",
             "id": "3d45cfe51d34ad165ebdbc8e7f42c97a",
+            "arduboy": ""
+        },
+        {
+            "title": "TV Tuner",
+            "description": "Software defined NTSC TV tuner",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/tv-tuner-useless\/8314",
+            "sourceUrl": "https:\/\/github.com\/pmwasson\/TVTuner",
+            "author": "Paul Wasson",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FTV%20Tuner%2Finstructions.png",
+            "date": "2019-11-16T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "TV Tuner",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FTV%20Tuner%2FTVTuner.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "4e08c3be4d9dac3d651e1d5b773a221d",
             "arduboy": ""
         },
         {
@@ -4647,5 +5088,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "221"
+    "items-length": "242"
 }
