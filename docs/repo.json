@@ -2568,6 +2568,27 @@
             "arduboy": ""
         },
         {
+            "title": "Kong",
+            "description": "A remake of the classic Game and Watch game Donkey Kong",
+            "genre": "Arcade",
+            "url": "https:\/\/community.arduboy.com\/t\/kong-1-0-3\/7962",
+            "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/Kong",
+            "author": "Filmote",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FKong%2Fa23b10e339fab11f6746af6f8afd843f39d1d2ef.png",
+            "date": "2019-12-9T08:55:25Z",
+            "binaries": [
+                {
+                    "title": "Kong",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FKong%2FKong.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "fac4f7a98d9c6d3b4e31fa0eaf27da59",
+            "arduboy": ""
+        },
+        {
             "title": "Kooky Kookies",
             "description": "Santa has delivered the presents and filled the stockings. Help Santa eat the cookies before the kids wake up and discover him in this match 2 puzzle game. Build bigger sets to get extra time and lots of points",
             "genre": "Puzzle",
@@ -4395,6 +4416,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tackle Box",
+            "description": "A fishing adventure",
+            "genre": "Arcade",
+            "url": "https:\/\/community.arduboy.com\/t\/tackle-box-a-fishing-adventure\/6777",
+            "sourceUrl": "https:\/\/github.com\/city41\/tacklebox",
+            "author": "Matt",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FTackleBox%2F5dd7d4ba898c7b7ef38e631a09311a2b18b19b73.png",
+            "date": "2019-12-4T15:49:54Z",
+            "binaries": [
+                {
+                    "title": "Tackle Box",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FTackleBox%2Ftacklebox.1.2.0.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "d6566276540f54ecddede914cd2b9f8e",
+            "arduboy": ""
+        },
+        {
             "title": "Tamaguino-AB",
             "description": "A port of Alojz Jakob\u00e2\u0080\u0099s Tamaguino for the Arduboy Games System",
             "genre": "Misc",
@@ -5109,5 +5151,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "243"
+    "items-length": "245"
 }
