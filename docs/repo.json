@@ -3765,6 +3765,27 @@
             "arduboy": ""
         },
         {
+            "title": "Rooftop Rescue",
+            "description": "Rescue the civilians who are trapped on the roof of imploding buildings.",
+            "genre": "Action",
+            "url": "https:\/\/github.com\/BertVeer\/Rooftop",
+            "sourceUrl": "https:\/\/github.com\/BertVeer\/Rooftop",
+            "author": "Bert van\u0027t Veer",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FRooftop%20Rescue%2Frooftop.png",
+            "date": "2019-12-04T03:31:37",
+            "binaries": [
+                {
+                    "title": "Rooftop Rescue",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FRooftop%20Rescue%2Frooftop.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "a920f99b9ca44def0db154c5a45e7881",
+            "arduboy": ""
+        },
+        {
             "title": "Roshambo",
             "description": "The first executable. Arduboy or PC alike.",
             "genre": "Puzzle",
@@ -5088,5 +5109,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "242"
+    "items-length": "243"
 }
