@@ -2610,6 +2610,27 @@
             "arduboy": ""
         },
         {
+            "title": "Kung Fu Escape",
+            "description": "Just a small little game trying to channel the old Kung Fu Master arcade game",
+            "genre": "Arcade",
+            "url": "https:\/\/community.arduboy.com\/t\/kung-fu-escape-arcade-game\/8373",
+            "sourceUrl": "https:\/\/github.com\/MrSazazel\/Kung_Fu_Escape",
+            "author": "Anthony Clarke",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FKung%20Fu%20Escape%2F36a25a703524c86a85aaf7c420ab69de0818bcbe.png",
+            "date": "2019-12-15T08:00:00Z",
+            "binaries": [
+                {
+                    "title": "Kung Fu Escape",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FKung%20Fu%20Escape%2FKungFu_Escape.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "d4fb0e",
+            "arduboy": ""
+        },
+        {
             "title": "l4arduboy",
             "description": "i4arduboy is a horizontal shmup. Control a submarine and snipe far enemies on off-screen with torpedos! This is a porting from our windows work i-20000.",
             "genre": "Shooter",
@@ -3975,6 +3996,27 @@
             "arduboy": ""
         },
         {
+            "title": "Shattered Lands",
+            "description": "A multi-part RPG saga",
+            "genre": "RPG",
+            "url": "https:\/\/community.arduboy.com\/t\/shattered-lands-a-multi-part-rpg-saga-for-arduboy\/8400",
+            "sourceUrl": "https:\/\/community.arduboy.com\/t\/shattered-lands-a-multi-part-rpg-saga-for-arduboy\/8400",
+            "author": "Justin Davis",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FShattered%20Lands%2F7e7d49f5520ca664b405e143cc9b89010283c8d0.png",
+            "date": "2019-12-15T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "Shattered Lands",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FShattered%20Lands%2FSL_TowersOfPerdition.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "c50967",
+            "arduboy": ""
+        },
+        {
             "title": "Siege",
             "description": "The king needs your help to keep the Dark Lord\u0027s army from destroying the kingdom. The Wizards will arrive after the 5th day and the rest of our army will be back in 20 days. The king is counting on you to hold the wall. Hold strong, noble archer, HOLD STRONG!",
             "genre": "Action",
@@ -5151,5 +5193,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "245"
+    "items-length": "247"
 }
