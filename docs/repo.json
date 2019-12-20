@@ -3849,6 +3849,27 @@
             "arduboy": ""
         },
         {
+            "title": "SameGame - A famous tile-matching puzzle",
+            "description": "This game is played on a 10\u00d720 rectangular field, initially filled with 5 kinds of blocks placed at random. By selecting a group of adjoining blocks of the same kind, a player may remove them from the field",
+            "genre": "Arcade",
+            "url": "https:\/\/community.arduboy.com\/t\/samegame-a-famous-tile-matching-puzzle\/8407",
+            "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks\/tree\/master\/samegame",
+            "author": "obono",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FSameGame%2F862012e97260e55ebb21333efefe53ad1dd822b7.png",
+            "date": "2019-12-20T13:25:29Z",
+            "binaries": [
+                {
+                    "title": "SameGame - A famous tile-matching puzzle",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FSameGame%2Fsamegame_v0.10.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "09bca0",
+            "arduboy": ""
+        },
+        {
             "title": "SanSan",
             "description": "This is Son Son, Rygar inspired action game, but add some original ideas.",
             "genre": "Action",
@@ -3993,27 +4014,6 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "bcc701",
-            "arduboy": ""
-        },
-        {
-            "title": "Shattered Lands",
-            "description": "A multi-part RPG saga",
-            "genre": "RPG",
-            "url": "https:\/\/community.arduboy.com\/t\/shattered-lands-a-multi-part-rpg-saga-for-arduboy\/8400",
-            "sourceUrl": "https:\/\/community.arduboy.com\/t\/shattered-lands-a-multi-part-rpg-saga-for-arduboy\/8400",
-            "author": "Justin Davis",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FShattered%20Lands%2F7e7d49f5520ca664b405e143cc9b89010283c8d0.png",
-            "date": "2019-12-15T13:25:29Z",
-            "binaries": [
-                {
-                    "title": "Shattered Lands",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FShattered%20Lands%2FSL_TowersOfPerdition.ino.hex",
-                    "device": "Arduboy"
-                }
-            ],
-            "screenshots": [],
-            "license": "Proprietary",
-            "id": "c50967",
             "arduboy": ""
         },
         {
