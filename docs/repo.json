@@ -1020,7 +1020,7 @@
             "url": "https:\/\/community.arduboy.com\/t\/blackjack-v1-0\/6668",
             "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/Blackjack\/",
             "author": "Simon Holmes (filmote) \u0026 Stephane C (vampirics)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FBlackjack%2FBlackjack.gif",
+            "banner": "",
             "date": "2018-11-04T13:25:27Z",
             "binaries": [
                 {
@@ -2652,6 +2652,27 @@
             "arduboy": ""
         },
         {
+            "title": "Lasers",
+            "description": "A simple Ikaruga-like game",
+            "genre": "Arcade",
+            "url": "https:\/\/community.arduboy.com\/t\/lasers-a-simple-ikaruga-like-game\/7310",
+            "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks\/tree\/master\/lasers",
+            "author": "obono",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FLasers%2FArduboyCapture.png",
+            "date": "2019-12-22T08:00:00Z",
+            "binaries": [
+                {
+                    "title": "Lasers",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FLasers%2F9489704cbaedb8fbfff8986d63eae61bdb0915d5.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "553a08",
+            "arduboy": ""
+        },
+        {
             "title": "LATE",
             "description": "Little Arduboy Timekiller Endeavour - a puzzle game for fun and killing time. Features 3 modes - a tetris clone, a 1010! clone and a Stick Hero clone.",
             "genre": "Puzzle",
@@ -2763,7 +2784,7 @@
             "url": "",
             "sourceUrl": "",
             "author": "Simon Holmes (filmote)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FLode%20Runner%20-%20Levels%20001%20to%20040%2FLodeRunner.gif",
+            "banner": "",
             "date": "2018-04-27T13:25:27Z",
             "binaries": [
                 {
@@ -2784,7 +2805,7 @@
             "url": "",
             "sourceUrl": "",
             "author": "Simon Holmes (filmote)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FLode%20Runner%20-%20Levels%20120%20to%20154%2FLodeRunner.gif",
+            "banner": "",
             "date": "2018-04-27T13:25:27Z",
             "binaries": [
                 {
@@ -2805,7 +2826,7 @@
             "url": "",
             "sourceUrl": "",
             "author": "Simon Holmes (filmote)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FLode%20Runner%20-%20Levels%20041%20to%20080%2FLodeRunner.gif",
+            "banner": "",
             "date": "2018-04-27T13:25:27Z",
             "binaries": [
                 {
@@ -2826,7 +2847,7 @@
             "url": "",
             "sourceUrl": "",
             "author": "Simon Holmes (filmote)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FLode%20Runner%20-%20Levels%20081%20to%20120%2FLodeRunner.gif",
+            "banner": "",
             "date": "2018-04-27T13:25:27Z",
             "binaries": [
                 {
@@ -2847,7 +2868,7 @@
             "url": "",
             "sourceUrl": "",
             "author": "Filmote (Simon Holmes)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FLogix%2Fanimation.gif",
+            "banner": "",
             "date": "2018-04-27T13:25:29Z",
             "binaries": [
                 {
@@ -3624,7 +3645,7 @@
             "url": "https:\/\/community.arduboy.com\/t\/psi-colo-a-puzzle-game-with-dice\/6148",
             "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks\/tree\/master\/psicolo",
             "author": "obono",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FPsi%20Colo%2F3d7986965bb17eac9ea446923772fb1eeb9dd1bf.gif",
+            "banner": "",
             "date": "2018-08-04T12:00:00Z",
             "binaries": [
                 {
@@ -3681,6 +3702,27 @@
             "arduboy": ""
         },
         {
+            "title": "Quarto!",
+            "description": "Abstract strategy board game",
+            "genre": "Puzzle",
+            "url": "https:\/\/community.arduboy.com\/t\/quarto-an-abstract-strategy-board-game\/8226",
+            "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks\/tree\/master\/quarto",
+            "author": "obono",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FQuarto%21%2Ff456d26f19c02a99b75d80892d1f0b77e61fe576.png",
+            "date": "2019-12-22T08:00:00Z",
+            "binaries": [
+                {
+                    "title": "Quarto!",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FQuarto%21%2Fquarto_v0.10.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "34a6d6",
+            "arduboy": ""
+        },
+        {
             "title": "Rayne the Rogue",
             "description": "As a child Rayne watched the rich from the streets of the village and burned with jealousy. After years and years of poverty an idea formed. Rayne has decided to sneak into the lairs of dragons and steel their treasures. Rayne need your help to navigate the dangerous caves and avoid the dragon\u0027s breath to become the wealthiest person in the village, but take heed, the further Rayne gets the more treacherous it will be.",
             "genre": "Action",
@@ -3699,6 +3741,27 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "43e88d",
+            "arduboy": ""
+        },
+        {
+            "title": "Reversi",
+            "description": "A simple board game",
+            "genre": "Puzzle",
+            "url": "https:\/\/community.arduboy.com\/t\/reversi-a-simple-board-game\/6754",
+            "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks\/tree\/master\/reversi",
+            "author": "obono",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FReversi%2F6180b9e28025ed4bcf4c6418834fe2c3b90efb25.png",
+            "date": "2019-12-22T08:00:00Z",
+            "binaries": [
+                {
+                    "title": "Reversi",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FReversi%2Freversi_v0.10.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "b27ae8",
             "arduboy": ""
         },
         {
@@ -4350,6 +4413,27 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "0fee4b",
+            "arduboy": ""
+        },
+        {
+            "title": "Stairs Sweep",
+            "description": "Falling block puzzle game, something like Pac-Attack",
+            "genre": "Puzzle",
+            "url": "https:\/\/community.arduboy.com\/t\/stairs-sweep-a-falling-block-puzzle-game\/8259",
+            "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks\/tree\/master\/stairssweep",
+            "author": "obono",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FStairs%20Sweep%2F4bd6a0941c20b8a5069982307191458e8a7296e7.png",
+            "date": "2019-12-22T08:00:00Z",
+            "binaries": [
+                {
+                    "title": "Stairs Sweep",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FStairs%20Sweep%2Fstairssweep_v0.10.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "9c79a5",
             "arduboy": ""
         },
         {
@@ -5010,7 +5094,7 @@
             "url": "https:\/\/community.arduboy.com\/t\/under-the-tower-rpg\/5613",
             "sourceUrl": "https:\/\/github.com\/wuuff\/under-the-tower-arduboy",
             "author": "wuuff",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FUnder%20the%20Tower%2Ftower.gif",
+            "banner": "",
             "date": "2018-04-26T07:47:00Z",
             "binaries": [
                 {
@@ -5214,5 +5298,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "248"
+    "items-length": "252"
 }
