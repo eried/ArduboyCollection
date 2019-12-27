@@ -4689,6 +4689,27 @@
             "arduboy": ""
         },
         {
+            "title": "TheQuestForTruth",
+            "description": "Platformer with RPG and puzzle solving elements",
+            "genre": "Platformer",
+            "url": "http:\/\/timmyotoolebits.tumblr.com\/",
+            "sourceUrl": "https:\/\/github.com\/GuillaumeElias\/TheQuestForTruth",
+            "author": "Timmy O\u0027Toole",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FTheQuestForTruth%2FTheQuestForTruth.png",
+            "date": "2019-12-26T14:36:00Z",
+            "binaries": [
+                {
+                    "title": "TheQuestForTruth",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FTheQuestForTruth%2FTheQuestForTruth-1.0.0.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "LGPL",
+            "id": "5f9569",
+            "arduboy": ""
+        },
+        {
             "title": "TicTacCurly",
             "description": "tic tac toe game for arduboy 1-2 player",
             "genre": "Puzzle",
@@ -5298,5 +5319,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "252"
+    "items-length": "253"
 }
