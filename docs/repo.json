@@ -4899,6 +4899,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tiny-Tris",
+            "description": "Tiny-Tris (like tetris classic)",
+            "genre": "Puzzle",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2Ftinytris%2Ftinytris.png",
+            "date": "2020-01-01T05:46:00Z",
+            "binaries": [
+                {
+                    "title": "Tiny-Tris",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2Ftinytris%2FTinyTris.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "48bd8c",
+            "arduboy": ""
+        },
+        {
             "title": "To",
             "description": "You are the developer of the door with the teleport function. But just before completion, someone is trying to destroy the door. There seems to be no choice but to distort the space with the power of the door and to prevent destruction.",
             "genre": "Action",
@@ -5319,5 +5340,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "253"
+    "items-length": "254"
 }
