@@ -4878,6 +4878,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tiny-Plaque",
+            "description": "Tiny-Plaque (like Plaque attack atari 2600)",
+            "genre": "Shooter",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FTinyPlaque%2FTINY-PLAQUE.png",
+            "date": "2020-01-29 T03:36:02Z",
+            "binaries": [
+                {
+                    "title": "Tiny-Plaque",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FTinyPlaque%2FTiny-Plaque.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "89c2b4",
+            "arduboy": ""
+        },
+        {
             "title": "Tiny-Trick",
             "description": "Tiny-Trick (like Hat Trick c64)",
             "genre": "Sports",
@@ -5340,5 +5361,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "254"
+    "items-length": "255"
 }
