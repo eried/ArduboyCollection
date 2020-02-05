@@ -4884,12 +4884,12 @@
             "url": "https:\/\/sites.google.com\/view\/arduino-collection",
             "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
             "author": "Daniel C (Electro L.I.B)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FTinyPlaque%2FTINY-PLAQUE.png",
-            "date": "2020-01-29 T03:36:02Z",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FTinyPlaque%2FTinyPlaque.png",
+            "date": "2020-02-04T03:36:02Z",
             "binaries": [
                 {
                     "title": "Tiny-Plaque",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FTinyPlaque%2FTiny-Plaque.hex",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FTinyPlaque%2FTinyPlaque.hex",
                     "device": "Arduboy"
                 }
             ],
