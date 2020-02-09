@@ -4542,6 +4542,27 @@
             "arduboy": ""
         },
         {
+            "title": "Super Crate Buino",
+            "description": "A platform-action-shooting game from the Gamebuino",
+            "genre": "Platformer",
+            "url": "http:\/\/legacy.gamebuino.com\/forum\/viewtopic.php?f=17\u0026t=3151",
+            "sourceUrl": "https:\/\/github.com\/uXeBoy\/Super-Crate-Buino\/tree\/branched\/Super-Crate-Buino",
+            "author": "Aur\u00c3\u00a9lien Rodot (ported by uXe)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FSuper-Crate-Buino%2Fgame.png",
+            "date": "2020-02-09T10:35:05Z",
+            "binaries": [
+                {
+                    "title": "Super Crate Buino",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FSuper-Crate-Buino%2FSuper-Crate-Buino.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "LGPL-3.0-or-later",
+            "id": "2fb317",
+            "arduboy": ""
+        },
+        {
             "title": "Super Soldiers",
             "description": "A dragon is attempting to conquer Canada by sending monsters after all of its cities. The military responds by sending its elite super soldiers powered by ancient gems to fight them.",
             "genre": "Platformer",
@@ -5361,5 +5382,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "255"
+    "items-length": "256"
 }
