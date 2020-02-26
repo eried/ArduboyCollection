@@ -2573,7 +2573,7 @@
             "genre": "Arcade",
             "url": "https:\/\/community.arduboy.com\/t\/kong-1-0-3\/7962",
             "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/Kong",
-            "author": "Filmote",
+            "author": "Press Play On Tape (Filmote and Vampirics)",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FKong%2Fa23b10e339fab11f6746af6f8afd843f39d1d2ef.png",
             "date": "2019-12-04T08:00:00Z",
             "binaries": [
@@ -2585,7 +2585,28 @@
             ],
             "screenshots": [],
             "license": "MIT",
-            "id": "c4f7a9",
+            "id": "cab896",
+            "arduboy": ""
+        },
+        {
+            "title": "Kong II",
+            "description": "A remake of the classic Game and Watch game Donkey Kong II",
+            "genre": "Arcade",
+            "url": "https:\/\/community.arduboy.com\/t\/kong-ii-1-0-0",
+            "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/Kong-II",
+            "author": "Press Play on Tapes (Vampirics and Filmote)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FKong-II%2FKongII_Banner.png",
+            "date": "2020-02-25T08:00:00Z",
+            "binaries": [
+                {
+                    "title": "Kong II",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FKong-II%2FKongII.V1.0.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "1745eb",
             "arduboy": ""
         },
         {
@@ -5382,5 +5403,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "256"
+    "items-length": "257"
 }
