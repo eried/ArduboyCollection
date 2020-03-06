@@ -90,6 +90,27 @@
             "arduboy": ""
         },
         {
+            "title": "2PlayersPack",
+            "description": "5 in 1 Game designed for 2 players",
+            "genre": "Arcade",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Cedric Martin",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F2PlayersPack%2F2PP_trace.png",
+            "date": "2020-03-06T12:22:22Z",
+            "binaries": [
+                {
+                    "title": "2PlayersPack",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F2PlayersPack%2F2PlayersPack.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPL-3.0-or-later",
+            "id": "c8f06a",
+            "arduboy": ""
+        },
+        {
             "title": "3in1A",
             "description": "3 games in 1 (tiny space invaders - tiny pinball - tiny pacman)",
             "genre": "Arcade",
@@ -5403,5 +5424,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "257"
+    "items-length": "258"
 }
