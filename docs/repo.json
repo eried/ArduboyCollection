@@ -4941,6 +4941,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tiny-DDug",
+            "description": "Tiny-DDug (like Dig Dug on atari 2600)",
+            "genre": "Arcade",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FTiny-DDug%2FTiny-DDug.png",
+            "date": "2020-03-07T09:06:02Z",
+            "binaries": [
+                {
+                    "title": "Tiny-DDug",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FTiny-DDug%2FTiny-DDug.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "213e71",
+            "arduboy": ""
+        },
+        {
             "title": "Tiny-Plaque",
             "description": "Tiny-Plaque (like Plaque attack atari 2600)",
             "genre": "Shooter",
@@ -5424,5 +5445,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "258"
+    "items-length": "259"
 }
