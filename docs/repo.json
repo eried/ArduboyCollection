@@ -153,6 +153,48 @@
             "arduboy": ""
         },
         {
+            "title": "3in1C",
+            "description": "3 games in 1 (tiny Bert-tiny Bike-tiny Trick)",
+            "genre": "Arcade",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F3in1C%2F3in1C.png",
+            "date": "2020-03-21T14:48:00Z",
+            "binaries": [
+                {
+                    "title": "3in1C",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F3in1C%2F3in1C.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "cd7238",
+            "arduboy": ""
+        },
+        {
+            "title": "3in1D",
+            "description": "3 games in 1 (Tiny Ddug-Tiny Plaque-Tiny Tris v2)",
+            "genre": "Arcade",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F3in1D%2F3in1D.png",
+            "date": "2020-03-21 T14:52:00Z",
+            "binaries": [
+                {
+                    "title": "3in1D",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F3in1D%2F3in1D.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "c004de",
+            "arduboy": ""
+        },
+        {
             "title": "ABAsm DP1",
             "description": "ABasm is an Arduboy game that lets you program your own Arduboy games, on your Arduboy! It uses an assembly language-style of programming with its own bytecode format.",
             "genre": "Application",
@@ -5445,5 +5487,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "259"
+    "items-length": "261"
 }
