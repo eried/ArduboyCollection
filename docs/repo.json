@@ -5256,6 +5256,27 @@
             "arduboy": ""
         },
         {
+            "title": "Twotris",
+            "description": "A version of the classic Tetris, but for two players. Two buttons each for the controls: move, or turn",
+            "genre": "Arcade",
+            "url": "",
+            "sourceUrl": "https:\/\/github.com\/skaterced\/Twotris",
+            "author": "C\u00c3\u00a9dric Martin",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FTwotris%2FTwotris.png",
+            "date": "2020-04-15T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "Twotris",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FTwotris%2FTwotris.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "186c83",
+            "arduboy": ""
+        },
+        {
             "title": "Ufo-Race",
             "description": "A fast paced racing game where you have to finish a lap as fast as possible while avoiding obstacles. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)",
             "genre": "Racing",
@@ -5508,5 +5529,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "262"
+    "items-length": "263"
 }
