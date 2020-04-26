@@ -69,6 +69,27 @@
             "arduboy": ""
         },
         {
+            "title": "1944",
+            "description": "",
+            "genre": "Arcade",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Unknown",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F1944%2Fscreenshot03.png",
+            "date": "2018-01-01T12:00:00Z",
+            "binaries": [
+                {
+                    "title": "1944",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F1944%2FNineteen44.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "444fe1",
+            "arduboy": ""
+        },
+        {
             "title": "2048",
             "description": "2048 Clone",
             "genre": "Puzzle",
@@ -5529,5 +5550,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "263"
+    "items-length": "264"
 }
