@@ -636,6 +636,27 @@
             "arduboy": ""
         },
         {
+            "title": "ARDUBULLETs",
+            "description": "Avoid voluminous bullets and defeat enemy squadron in one minute.",
+            "genre": "Shooter",
+            "url": "https:\/\/community.arduboy.com\/t\/ardubullets-a-short-time-shmups-game\/8684",
+            "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks",
+            "author": "obono",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FARDUBULLETs%2FCapture.PNG",
+            "date": "2020-03-28T09:05:16Z",
+            "binaries": [
+                {
+                    "title": "ARDUBULLETs",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FARDUBULLETs%2Fardubullets_v0.10.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "3dd148",
+            "arduboy": ""
+        },
+        {
             "title": "ArduCC",
             "description": "Change your credit card sized gaming system into a real credit card",
             "genre": "Application",
@@ -888,6 +909,27 @@
             "arduboy": ""
         },
         {
+            "title": "Ardynia",
+            "description": "An adventure game in the style of Zelda",
+            "genre": "RPG",
+            "url": "https:\/\/community.arduboy.com\/t\/ardynia-a-zelda-style-adventure\/6336",
+            "sourceUrl": "https:\/\/github.com\/city41\/ardynia",
+            "author": "city41",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FArdynia%2Fdd484268e1bc9d50cd9583e7f7c7f7078097058e.png",
+            "date": "2018-07-05T09:05:16Z",
+            "binaries": [
+                {
+                    "title": "Ardynia",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FArdynia%2Fardynia.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "a8327f",
+            "arduboy": ""
+        },
+        {
             "title": "Armageddon",
             "description": "You have been tasked with the defense of six cities from the incoming nuclear apocalypse. You have only two launchers to shoot down incoming missiles. Survive as long as you can to delay the inevitable end of the world. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)",
             "genre": "Arcade",
@@ -1074,6 +1116,27 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "b700d5",
+            "arduboy": ""
+        },
+        {
+            "title": "BiriBiriBeat",
+            "description": "BiriBiriBeat is a rhythm game! Its title is derived from a Japanese onomatopoeia used to describe an electric shock or vibration",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/biribiribeat-a-miniature-rhythm-game-for-arduboy\/8560",
+            "sourceUrl": "https:\/\/community.arduboy.com\/t\/biribiribeat-a-miniature-rhythm-game-for-arduboy\/8560",
+            "author": "shiyouganai",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FBiriBiriBeat%2FCapture.PNG",
+            "date": "2020-02-09T09:05:16Z",
+            "binaries": [
+                {
+                    "title": "BiriBiriBeat",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FBiriBiriBeat%2Fbiribiribeat_v100.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "2ec60e",
             "arduboy": ""
         },
         {
@@ -1896,6 +1959,27 @@
             "arduboy": ""
         },
         {
+            "title": "Electronic Quarterback",
+            "description": "Game that emulates the behaviour of the old Electronic Quarterback pocket console by Coleco",
+            "genre": "Sports",
+            "url": "https:\/\/community.arduboy.com\/t\/electronic-quarterback\/8777",
+            "sourceUrl": "https:\/\/community.arduboy.com\/t\/electronic-quarterback\/8777",
+            "author": "DWidel",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Sports%2FElectronic%20Quarterback%2FCapture.PNG",
+            "date": "2020-04-29T09:05:16Z",
+            "binaries": [
+                {
+                    "title": "Electronic Quarterback",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Sports%2FElectronic%20Quarterback%2FEQBack.ino.leonardo.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "b1cdf7",
+            "arduboy": ""
+        },
+        {
             "title": "Epic Mini Games!",
             "description": "This is a compilation of FUN mini games that I hope you will like. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)",
             "genre": "Action",
@@ -2628,6 +2712,27 @@
             "screenshots": [],
             "license": "GPL-3.0",
             "id": "71905e",
+            "arduboy": ""
+        },
+        {
+            "title": "Knight Move",
+            "description": "This is an action-puzzle game. You control a knight piece of the chess which can move in an L shape on the 8\u00d74 board.",
+            "genre": "Puzzle",
+            "url": "https:\/\/community.arduboy.com\/t\/knight-move-a-puzzle-platform-game-using-knight\/8587",
+            "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks",
+            "author": "obono",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FKnight%20Move%2FCapture.PNG",
+            "date": "2020-07-05T09:05:16Z",
+            "binaries": [
+                {
+                    "title": "Knight Move",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FKnight%20Move%2Fknightmove_v0.10.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "8c8d94",
             "arduboy": ""
         },
         {
@@ -3807,6 +3912,27 @@
             "arduboy": ""
         },
         {
+            "title": "Randocity",
+            "description": "Arduboy large open-world procedurally generated city motorcycle game with 3 play modes",
+            "genre": "Racing",
+            "url": "https:\/\/community.arduboy.com\/t\/randocity-a-large-open-world-motorcycle-game\/8375",
+            "sourceUrl": "https:\/\/github.com\/pmwasson\/Randocity",
+            "author": "pmwasson",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2FRandocity%2Fscreenshot-title.png",
+            "date": "2020-12-06T09:05:16Z",
+            "binaries": [
+                {
+                    "title": "Randocity",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2FRandocity%2FRandocity.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "950b5f",
+            "arduboy": ""
+        },
+        {
             "title": "Rayne the Rogue",
             "description": "As a child Rayne watched the rich from the streets of the village and burned with jealousy. After years and years of poverty an idea formed. Rayne has decided to sneak into the lairs of dragons and steel their treasures. Rayne need your help to navigate the dangerous caves and avoid the dragon\u0027s breath to become the wealthiest person in the village, but take heed, the further Rayne gets the more treacherous it will be.",
             "genre": "Action",
@@ -4794,6 +4920,48 @@
             "arduboy": ""
         },
         {
+            "title": "The Quest for Truth",
+            "description": "It is a platformer game with elements of RPG and puzzle-solving challenges.",
+            "genre": "RPG",
+            "url": "https:\/\/community.arduboy.com\/t\/the-quest-for-truth-an-rpg-style-platformer\/8424",
+            "sourceUrl": "https:\/\/github.com\/GuillaumeElias\/TheQuestForTruth\/",
+            "author": "Timmy O\u0027 Toole",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FThe%20Quest%20for%20Truth%2FCapture.PNG",
+            "date": "2020-12-26T08:05:16Z",
+            "binaries": [
+                {
+                    "title": "The Quest for Truth",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FThe%20Quest%20for%20Truth%2FTheQuestForTruth-1.0.0.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "LGPL-3.0",
+            "id": "383dc8",
+            "arduboy": ""
+        },
+        {
+            "title": "The Social Distance Game",
+            "description": "Keep out of people\u0027s way as long as you can!",
+            "genre": "Arcade",
+            "url": "https:\/\/community.arduboy.com\/t\/the-social-distance-game\/8729",
+            "sourceUrl": "https:\/\/github.com\/msanatan\/TheSocialDistanceGame",
+            "author": "msanatan",
+            "banner": "",
+            "date": "2020-04-12T19:05:16Z",
+            "binaries": [
+                {
+                    "title": "The Social Distance Game",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FThe%20Social%20Distance%20Game%2Fthesocialdistancegame_v1.1.0.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "93198c",
+            "arduboy": ""
+        },
+        {
             "title": "TheQuestForTruth",
             "description": "Platformer with RPG and puzzle solving elements",
             "genre": "Platformer",
@@ -5529,5 +5697,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "263"
+    "items-length": "271"
 }
