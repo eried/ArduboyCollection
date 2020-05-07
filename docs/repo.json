@@ -385,12 +385,12 @@
         },
         {
             "title": "Ardu-EZ Button",
-            "description": "The Ardu-EZ button is the perfect way to relish your daily successes! Just one press and you\u0027ll be greeted with a satisfying reminder of the ease with which you dispatch even the most pesky problems",
+            "description": "The Ardu-EZ button is the perfect way to relish your daily successes! Just one press and you\u0027ll be greeted with a satisfying reminder of the ease with which you dispatch even the most pesky problems. A \u0022Most Useless\u0022 entry to Game Jam 4.",
             "genre": "Application",
             "url": "https:\/\/community.arduboy.com\/t\/ardu-ez-button\/8322",
             "sourceUrl": "https:\/\/github.com\/shiyouganai\/ardu-ez_button\/",
             "author": "shiyouganai",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArdu-EZ%20Button%2Fcf696322eac33361244f996beeca1f5160b0a9a4.png",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FArdu-EZ%20Button%2Fardu-ez_button_repo_banner_512x512.png",
             "date": "2019-11-16T13:25:29Z",
             "binaries": [
                 {
@@ -1120,17 +1120,17 @@
         },
         {
             "title": "BiriBiriBeat",
-            "description": "BiriBiriBeat is a rhythm game! Its title is derived from a Japanese onomatopoeia used to describe an electric shock or vibration",
-            "genre": "Application",
+            "description": "BiriBiriBeat is a miniature rhythm game experience in a microscopic 28KB package. Join your robotic guide Navi and groove together to square wave sounds as you tap your way to the top of the scoreboard!",
+            "genre": "Arcade",
             "url": "https:\/\/community.arduboy.com\/t\/biribiribeat-a-miniature-rhythm-game-for-arduboy\/8560",
-            "sourceUrl": "https:\/\/community.arduboy.com\/t\/biribiribeat-a-miniature-rhythm-game-for-arduboy\/8560",
+            "sourceUrl": "https:\/\/github.com\/shiyouganai\/biribiribeat\/",
             "author": "shiyouganai",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FBiriBiriBeat%2FCapture.PNG",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FBiriBiriBeat%2Fbiribiribeat_repo_banner_512x512.png",
             "date": "2020-02-09T09:05:16Z",
             "binaries": [
                 {
                     "title": "BiriBiriBeat",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FBiriBiriBeat%2Fbiribiribeat_v100.hex",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FBiriBiriBeat%2Fbiribiribeat_v100.hex",
                     "device": "Arduboy"
                 }
             ],
