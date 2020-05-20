@@ -426,6 +426,27 @@
             "arduboy": ""
         },
         {
+            "title": "Ardu-Racer",
+            "description": "A Time Racing Trial Game for Arduboy",
+            "genre": "Racing",
+            "url": "https:\/\/community.arduboy.com\/t\/arduracer-a-trackmania-type-time-trial-game\/8850\/2",
+            "sourceUrl": "https:\/\/github.com\/tonym128\/ArduRacer",
+            "author": "tonym128",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2FArdu-Racer%2FArduRacer.png",
+            "date": "2020-05-16T10:16:16Z",
+            "binaries": [
+                {
+                    "title": "Ardu-Racer",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2FArdu-Racer%2FArduRacer.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "1444ca",
+            "arduboy": ""
+        },
+        {
             "title": "Ardu-Whack",
             "description": "Whack them all to make the highest score!",
             "genre": "Arcade",
@@ -5718,5 +5739,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "272"
+    "items-length": "273"
 }
