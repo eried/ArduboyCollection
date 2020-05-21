@@ -5235,6 +5235,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tiny-Morpion",
+            "description": "Tiny-Morpion (tic-tac-toe)",
+            "genre": "Puzzle",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FTinyMorpion%2Ftiny%20morpion.png",
+            "date": "2020-05-21T07:29:02Z",
+            "binaries": [
+                {
+                    "title": "Tiny-Morpion",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FTinyMorpion%2Ftiny_Morpion_ARDUBOY.ino.leonardo.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "112c79",
+            "arduboy": ""
+        },
+        {
             "title": "Tiny-Plaque",
             "description": "Tiny-Plaque (like Plaque attack atari 2600)",
             "genre": "Shooter",
@@ -5739,5 +5760,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "273"
+    "items-length": "274"
 }
