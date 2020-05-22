@@ -2737,13 +2737,13 @@
         },
         {
             "title": "Knight Move",
-            "description": "This is an action-puzzle game. You control a knight piece of the chess which can move in an L shape on the 8\u00d74 board.",
+            "description": "This is an action-puzzle game. You control a knight piece of the chess which can move in an L shape on the 8\u00c3\u00974 board.",
             "genre": "Puzzle",
             "url": "https:\/\/community.arduboy.com\/t\/knight-move-a-puzzle-platform-game-using-knight\/8587",
             "sourceUrl": "https:\/\/github.com\/obono\/ArduboyWorks",
             "author": "obono",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FKnight%20Move%2FCapture.PNG",
-            "date": "2020-07-05T09:05:16Z",
+            "date": "2020-05-07T09:05:16Z",
             "binaries": [
                 {
                     "title": "Knight Move",
