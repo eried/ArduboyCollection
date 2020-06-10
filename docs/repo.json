@@ -69,6 +69,27 @@
             "arduboy": ""
         },
         {
+            "title": "1944",
+            "description": "A version of the classic WWII game 1943: The Battle of Midway. Destroy the enemy Zeroes and Bombers. Zeros with solid wings will die on one shot, others will take multiple hits before they die. Watch your fuel, your health and ammunition - replenish these by running over the power ups!",
+            "genre": "Arcade",
+            "url": "https:\/\/community.arduboy.com\/t\/1944-return-to-midway-horizontal\/",
+            "sourceUrl": "https:\/\/github.com\/Press-Play-On-Tape\/Nineteen44",
+            "author": "Press Play On Tape (Filmote and Vampirics)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F1944%2Fbanner.png",
+            "date": "2018-10-31T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "1944",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F1944%2FNineteen44.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "5b180b",
+            "arduboy": ""
+        },
+        {
             "title": "2048",
             "description": "2048 Clone",
             "genre": "Puzzle",
@@ -2271,6 +2292,27 @@
             "screenshots": [],
             "license": "Proprietary",
             "id": "f0c15e",
+            "arduboy": ""
+        },
+        {
+            "title": "German Whist",
+            "description": "A version of the card game German Whist.",
+            "genre": "Puzzle",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Simon Holmes (filmote) \u0026 Stephance C (vampirics)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FGermanWhist%2FScreenshot_06.png",
+            "date": "2019-08-215T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "German Whist",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FGermanWhist%2FWhist.100.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD-3-Clause",
+            "id": "253499",
             "arduboy": ""
         },
         {
@@ -4941,6 +4983,27 @@
             "arduboy": ""
         },
         {
+            "title": "The Curse of Astarok",
+            "description": "A push your luck Dungeon Crawl game where you need to release your town from the curse of AztaroK",
+            "genre": "Puzzle",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Press Play on Tape",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FThe-Curse-Of-AstaroK%2FBanner.png",
+            "date": "2020-02-25T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "The Curse of Astarok",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FThe-Curse-Of-AstaroK%2FCurse.V1.0.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD-3 Licence",
+            "id": "0ec233",
+            "arduboy": ""
+        },
+        {
             "title": "The guy who never complains",
             "description": "A funny ebook on Arduboy.\\n\\nThe guy who never complains by Juice Lizard, 2016-2017. 32 chapters, 15 minutes of pure positive attitude.\\n\\nA: next page B: previous page",
             "genre": "Misc",
@@ -5760,5 +5823,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "274"
+    "items-length": "277"
 }
