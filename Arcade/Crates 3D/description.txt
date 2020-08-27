@@ -1,1 +1,0 @@
-A port of the TI-83 calculator puzzle game.

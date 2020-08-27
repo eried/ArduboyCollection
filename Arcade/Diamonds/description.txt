@@ -1,2 +1,0 @@
-Diamonds is a mix between a breakout game and a puzzle game.
-Original game was released on HP48 more than 20 years ago (yes.. Already 20 years...).

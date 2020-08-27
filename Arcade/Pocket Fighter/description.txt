@@ -1,1 +1,0 @@
-Pocket Fighter is an FTG, you can compete with your Arduboy. The CPU will repeat your actions at previous level.

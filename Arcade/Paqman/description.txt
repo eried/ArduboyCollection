@@ -1,1 +1,0 @@
-Gobble all the dots in the maze and eat powerpills to catch the ghosts. Now with sound. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)

@@ -1,3 +1,0 @@
-By Marcus Comstedt. After he wrote the assembler and reverse-engineered the hardware, he released this as a tutorial on making games for the VMU
-
-(This game was adapted using an adapted version of Marcus Comstedt's SoftVMS emulator for Arduboy by FManga)

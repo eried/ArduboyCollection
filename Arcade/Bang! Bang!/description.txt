@@ -1,1 +1,0 @@
-GameBuino implementation of the Bang! Bang! game. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)

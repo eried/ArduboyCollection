@@ -1,1 +1,0 @@
-This is a Bomberman-type game, but with a few changes. You'll have 10 seconds to reach the door safely, but try not touching anything or you'll die!

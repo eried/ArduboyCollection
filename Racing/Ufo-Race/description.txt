@@ -1,1 +1,0 @@
-A fast paced racing game where you have to finish a lap as fast as possible while avoiding obstacles. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)

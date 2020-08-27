@@ -1,0 +1,82 @@
+
+/* Filter */
+.filters {
+  display: flex;
+  align-items: center;
+  margin: 30px 0;
+  flex-wrap: wrap;
+}
+
+.filters .filter {
+    margin: 5px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.filter i.fa {
+  margin-right: 5px;
+}
+
+.category-filter {
+  display: flex;
+  align-items: center;
+}
+
+#search {
+    border: 1px solid rgba(144,144,144,0.2);
+    background: rgba(144,144,144,0.1);
+}
+
+btn-toggle {
+  padding: 5px;
+  background-color: rgba(144,144,144,0.1);
+  border: 1px solid rgba(144,144,144,0.2);
+  position: relative;
+  font-size: 0.9em;
+  display: block;
+  cursor: pointer;
+}
+
+#category {
+  height: 2em;
+}
+
+#category option {
+	color: #333;
+}
+
+btn-toggle.first{
+	border-radius: 6px 0 0 6px;
+}
+
+btn-toggle.last{
+	border-radius: 0 6px 6px 0;
+}
+
+[data-current-sort=data-item-timestamp] .sort-data-item-timestamp,
+[data-current-sort=data-item-title] .sort-data-item-title,
+[data-current-sort=data-item-author] .sort-data-item-author,
+btn-toggle.active
+	{
+	background-color: rgba(127,127,127,0.5);
+}
+
+.box {
+    position: relative;
+    overflow: hidden;
+}
+
+.box[data-item-new=true]:after {
+    content: 'New!';
+    position: absolute;
+    background-color: yellow;
+    color: black;
+    font-size: 1em;
+    font-weight:bolder;
+    top: 0;
+    left: 0;
+    width: 120px;
+    height: 25px;
+    text-align: center;
+    transform: translate(-43px, 5px) rotate(-45deg);
+}

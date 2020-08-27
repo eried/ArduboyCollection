@@ -1,3 +1,0 @@
-Tiny Sokoban is Sokoban(1982) clone.
-It use Yoshio Murase Levels. These levels are very small (no more than 8x8).
-But difficult and interesting.

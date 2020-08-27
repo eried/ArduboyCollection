@@ -1,3 +1,0 @@
-This is a simple flood fill game for the Arduboy.
-
-Starting from the top-left tile, the goal is to flood the entire board until there is only one pattern.

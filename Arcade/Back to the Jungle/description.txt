@@ -1,3 +1,0 @@
-The Zoo had to close, what can the animals do?
-
-Entry game for the first Arduboy Game Jam.

@@ -1,1 +1,0 @@
-Work In Progress of a Gradius-Like Shooter for the Arduboy gaming device.

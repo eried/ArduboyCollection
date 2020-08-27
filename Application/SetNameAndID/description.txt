@@ -1,1 +1,0 @@
-Manage an Arduboy's unit name and ID stored in the system EEPROM area

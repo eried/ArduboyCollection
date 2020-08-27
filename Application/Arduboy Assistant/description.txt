@@ -1,1 +1,0 @@
-Arduboy Assistant allows you to view raw EEPROM data, back it up through the Arduino IDE's serial monitor, restore EEPROM data the same way, and even clear the entirety of the EEPROM data. Additionally, you can also test buttons, LED's, speaker, serial port, and screen.

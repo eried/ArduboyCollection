@@ -1,1 +1,0 @@
-Flocking behavior simulator, depicting flocking birds, shoaling fish or swarming bees

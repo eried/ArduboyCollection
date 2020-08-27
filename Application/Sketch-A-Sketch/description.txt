@@ -1,1 +1,0 @@
-Sketch-A-Sketch is a simple drawing program ala Etch-A-Sketch.

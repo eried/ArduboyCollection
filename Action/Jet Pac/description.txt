@@ -1,1 +1,0 @@
-Arduboy clone of the classic ZX Spectrum game 'Jet Pac'.
