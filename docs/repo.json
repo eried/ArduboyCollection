@@ -1140,6 +1140,27 @@
             "arduboy": ""
         },
         {
+            "title": "Beam \u0027Em Up",
+            "description": "Pilot your squid ship over a pastoral landscape, trying to bring all the cows together while dodging meteors. It\u0027s like herding cats, but with cows.",
+            "genre": "Action",
+            "url": "https:\/\/github.com\/unwiredben\/arduboy-beamemup",
+            "sourceUrl": "https:\/\/github.com\/unwiredben\/arduboy-beamemup",
+            "author": "unwiredben",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FBeam%20Em%20Up%2Fscreenshot.png",
+            "date": "2020-09-01T00:00:00Z",
+            "binaries": [
+                {
+                    "title": "Beam \u0027Em Up",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FBeam%20Em%20Up%2FBeamEmUp.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Apache-2.0",
+            "id": "219d6e",
+            "arduboy": ""
+        },
+        {
             "title": "BigBlackBox",
             "description": "A awesome platformer for an awesome console! With the gameplay style of SuperMeatBoy, BigBlackBox is a fun platformer full a challenging level desing with a beautiful and handsome look! (This game was adapted using the Gamebuino Library for Arduboy by akkera102)",
             "genre": "Platformer",
@@ -3426,6 +3447,27 @@
             "screenshots": [],
             "license": "Apache-2.0",
             "id": "fc0676",
+            "arduboy": ""
+        },
+        {
+            "title": "Miss Snake",
+            "description": "Yes! Another Snake Clone",
+            "genre": "Arcade",
+            "url": "https:\/\/github.com\/mad4j\/arduboy-misssnake",
+            "sourceUrl": "https:\/\/github.com\/mad4j\/arduboy-misssnake",
+            "author": "Daniele Olmisani",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FMiss%20Snake%2FMissSnake.png",
+            "date": "2020-08-31T12:00:00Z",
+            "binaries": [
+                {
+                    "title": "Miss Snake",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FMiss%20Snake%2FMissSnake.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPL-3.0-or-later",
+            "id": "4ac5dc",
             "arduboy": ""
         },
         {
@@ -5823,5 +5865,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "277"
+    "items-length": "279"
 }
