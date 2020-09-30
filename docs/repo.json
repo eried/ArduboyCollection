@@ -3618,6 +3618,27 @@
             "arduboy": ""
         },
         {
+            "title": "Oh Mummy",
+            "description": "A demake of the Amsoft \u0022classic\u0022 of the same name.",
+            "genre": "Arcade",
+            "url": "https:\/\/github.com\/Mattvic79\/OhMummy",
+            "sourceUrl": "https:\/\/github.com\/Mattvic79\/OhMummy",
+            "author": "Matthew Vicaradge",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FOhMummy%2Fbanner.png",
+            "date": "2020-09-30T19:14:00Z",
+            "binaries": [
+                {
+                    "title": "Oh Mummy",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FOhMummy%2FOhMummy.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD-3-Clause",
+            "id": "64612b",
+            "arduboy": ""
+        },
+        {
             "title": "Oh, You\u0027re Gunna Die",
             "description": "This is a Bomberman-type game, but with a few changes. You\u0027ll have 10 seconds to reach the door safely, but try not touching anything or you\u0027ll die!",
             "genre": "Arcade",
@@ -5865,5 +5886,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "279"
+    "items-length": "280"
 }
