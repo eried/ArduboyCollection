@@ -1,5 +1,7 @@
 # Erwin's Arduboy Collection
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLCKXMYJUWA8Y&source=url)
+
 You can browse this repo here:
 http://arduboy.ried.cl
 
@@ -27,7 +29,7 @@ _Also, check out [alternatives](https://play.google.com/store/apps/details?id=de
 ![Demo](/demo.jpg)
 
 ## Submit your game
-1. Fork this repo (If you *do not get* what this step means, **stop** and follow [this steps](https://community.arduboy.com/t/big-asteroids/5994/7))
+1. Fork this repo (If you *do not get* what this step means, **stop** and follow [this steps](https://community.arduboy.com/t/big-asteroids/5994/7)) and also Star this repo
 2. Create a new unique folder (case insensitive) for your game under an existent category folder (i.e. Arcade, RPG, etc)
 3. Inside your folder, place:
 
@@ -53,7 +55,7 @@ Instead of typing the date and time for the `date` variable, you can use: https:
 
 For the `license` variable, you need to use one of the identifiers defined here: https://spdx.org/licenses/
 
-You can also add the following entry to reference a remote file. If you are linking to github, make sure it is the "Raw" version of the url and not the github details for the file.
+You can also add the following entry to reference a remote file. If you are linking to github, make sure it is the "Raw" version of the url and not the github details for the file. You can include extra files, but they wont appear anywhere and your Pull Request may not be accepted if the commit is too messy.
 
 ```
 hex=http://url.to/your/own/server-with-the/game.hex
