@@ -2043,6 +2043,27 @@
             "arduboy": ""
         },
         {
+            "title": "ElsieBoy4",
+            "description": "Turn your Arduboy into an air-gapped LC4 appliance",
+            "genre": "Application",
+            "url": "https:\/\/community.arduboy.com\/t\/elsieboy4-turn-your-arduboy-into-an-air-gapped-lc4-appliance\/9469",
+            "sourceUrl": "https:\/\/github.com\/tfurrows\/ElsieBoy4",
+            "author": "Joe Lyman",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FElsieBoy4%2Felsieboy4.png",
+            "date": "2020-12-09T12:00:00Z",
+            "binaries": [
+                {
+                    "title": "ElsieBoy4",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2FElsieBoy4%2Felsieboy4.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Unlicense",
+            "id": "5e126c",
+            "arduboy": ""
+        },
+        {
             "title": "Epic Mini Games!",
             "description": "This is a compilation of FUN mini games that I hope you will like. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)",
             "genre": "Action",
@@ -4822,7 +4843,7 @@
             "sourceUrl": "https:\/\/rv6502.ca\/post\/2019\/01\/02\/starduino-for-arduboy-3d-gaming-inside-28kb\/",
             "author": "Stephane Hockenhull",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FStarduino%2FStarduino.png",
-            "date": "2019-07-09T01:01:01Z",
+            "date": "2020-11-23T01:01:01Z",
             "binaries": [
                 {
                     "title": "Starduino",
@@ -4843,7 +4864,7 @@
             "sourceUrl": "https:\/\/rv6502.ca\/post\/2019\/07\/09\/starduino-turbo-for-arduboy-faster-3d-gaming-inside-28kb\/",
             "author": "Stephane Hockenhull",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FStarduinoTurbo%2FStarduinoTurbo.png",
-            "date": "2019-07-09T01:01:01Z",
+            "date": "2020-11-24T01:01:01Z",
             "binaries": [
                 {
                     "title": "Starduino Turbo",
@@ -5886,5 +5907,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "280"
+    "items-length": "281"
 }
