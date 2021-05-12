@@ -3849,6 +3849,27 @@
             "arduboy": ""
         },
         {
+            "title": "PiCross",
+            "description": "PiCross",
+            "genre": "Puzzle",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Simon Holmes (filmote) \u0026 Stephance C (vampirics)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FPiCross%2Fbanner.png",
+            "date": "2019-09-17T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "PiCross",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FPiCross%2FPiCross.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD 3 Clause",
+            "id": "e5b1f6",
+            "arduboy": ""
+        },
+        {
             "title": "Pipes",
             "description": "A version of the classic pipes game where you must lay pip between each pair of nodes without the pipes crossing each other. This version has puzzles ranging from 5 x 5 to 9 x 9.",
             "genre": "Puzzle",
@@ -5403,6 +5424,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tiny-Pipe",
+            "description": "Tiny-Pipe (like Pipeline atari 2600)",
+            "genre": "Arcade",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FTinyPipe%2FTINY_PIPE.png",
+            "date": "2021-05-10 T09:43:02Z",
+            "binaries": [
+                {
+                    "title": "Tiny-Pipe",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FTinyPipe%2FTiny-Pipe.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "6f57ff",
+            "arduboy": ""
+        },
+        {
             "title": "Tiny-Plaque",
             "description": "Tiny-Plaque (like Plaque attack atari 2600)",
             "genre": "Shooter",
@@ -5907,5 +5949,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "281"
+    "items-length": "283"
 }
