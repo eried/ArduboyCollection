@@ -216,6 +216,27 @@
             "arduboy": ""
         },
         {
+            "title": "3in1E",
+            "description": "(Tiny-Missile - Tiny-Morpion - Tiny-Pipe)",
+            "genre": "Arcade",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F3in1E%2F3in1E_thumbnail.png",
+            "date": "2021-04-16T03:25:02Z",
+            "binaries": [
+                {
+                    "title": "3in1E",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F3in1E%2F3in1E.ino.leonardo.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "f0264a",
+            "arduboy": ""
+        },
+        {
             "title": "ABAsm DP1",
             "description": "ABasm is an Arduboy game that lets you program your own Arduboy games, on your Arduboy! It uses an assembly language-style of programming with its own bytecode format.",
             "genre": "Application",
@@ -5949,5 +5970,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "283"
+    "items-length": "284"
 }
