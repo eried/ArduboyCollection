@@ -1665,6 +1665,27 @@
             "arduboy": ""
         },
         {
+            "title": "Cistercia",
+            "description": "Cistercian number counter - displays arabic numerals on the left and their cistercian counterparts on the right.",
+            "genre": "Demo",
+            "url": "https:\/\/github.com\/poevoid\/Cistercia\r\nIDList=\r\nHotKey=0\r\nIconFile=C:\\Users\\cantu\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\y4f6gufm.default-release\\shortcutCache\\+gqj7r9ViEAneeeJvaT_kg==.ico\r\nIconIndex=0",
+            "sourceUrl": "https:\/\/github.com\/poevoid\/Cistercia\r\nIDList=\r\nHotKey=0\r\nIconFile=C:\\Users\\cantu\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\y4f6gufm.default-release\\shortcutCache\\+gqj7r9ViEAneeeJvaT_kg==.ico\r\nIconIndex=0",
+            "author": "poevoid",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Demo%2FCistercia%2Fcistercia.png",
+            "date": "2021-05-25T15:44:04Z",
+            "binaries": [
+                {
+                    "title": "Cistercia",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Demo%2FCistercia%2Fcistercia.ino-arduboy.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "b23503",
+            "arduboy": ""
+        },
+        {
             "title": "Coder\u0027s Toolbox",
             "description": "A toolbox of tools for developing ArduboyTones compatible music and Sprites compatible images",
             "genre": "Application",
@@ -5970,5 +5991,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "284"
+    "items-length": "285"
 }
