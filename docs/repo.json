@@ -804,6 +804,27 @@
             "arduboy": ""
         },
         {
+            "title": "ArduLO",
+            "description": "ArduLO is a clone of the puzzle game Lights Out for the Arduboy.",
+            "genre": "Puzzle",
+            "url": "https:\/\/github.com\/jonthysell\/ArduLO",
+            "sourceUrl": "https:\/\/github.com\/jonthysell\/ArduLO",
+            "author": "Jon Thysell",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FArduLO%2FArduLO.png",
+            "date": "2021-06-01T22:53:30Z",
+            "binaries": [
+                {
+                    "title": "ArduLO",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FArduLO%2FArduLO.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "3dfcef",
+            "arduboy": ""
+        },
+        {
             "title": "Arduloop",
             "description": "A little chiptune step sequencer",
             "genre": "Misc",
@@ -5991,5 +6012,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "285"
+    "items-length": "286"
 }
