@@ -1917,6 +1917,27 @@
             "arduboy": ""
         },
         {
+            "title": "CyberHack",
+            "description": "Inspired by the brilliant but flawed CyberPunk.",
+            "genre": "Puzzle",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Press Play on Tape, Filmote and Vampirics",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FCyberHack%2FBanner.png",
+            "date": "2021-07-05T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "CyberHack",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FCyberHack%2FCyberhack_V10.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD 3-Clause License",
+            "id": "b66803",
+            "arduboy": ""
+        },
+        {
             "title": "DanceRow",
             "description": "An Audition Ayodance clone for Arduboy. With your arrow keypad, match the arrow on the screen. Then, on the correct beat, press (A) \/ (B) to get a score. Once you beat that beat, you\u0027ll get one of these four results based on how close with the correct beat:",
             "genre": "Arcade",
@@ -3093,6 +3114,27 @@
             "arduboy": ""
         },
         {
+            "title": "Lion",
+            "description": "A version so the Game and Watch classic.",
+            "genre": "Arcade",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Press Play on Tape, Filmote and Vampirics",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FLion%20Tamer%2FLionTamer.png",
+            "date": "2021-07-05T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "Lion",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FLion%20Tamer%2FLion.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD 3-Clause License",
+            "id": "eba1ab",
+            "arduboy": ""
+        },
+        {
             "title": "Lite Out",
             "description": "Lite\/Out is a game where you have to turn off all of the lights, but every time you change a light, the surrounding lights change. The game consists of a 5-by-5 grid where some of the blocks are lit up. You\u0027ll complete the level when all of the blocks are not lit.",
             "genre": "Puzzle",
@@ -3744,6 +3786,27 @@
             "arduboy": ""
         },
         {
+            "title": "Oil Panic",
+            "description": "Inspired by the Game and Watch version.",
+            "genre": "Arcade",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Press Play on Tape, Filmote and Vampirics",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FOil%20Panic%2FOilPanic_Banner.png",
+            "date": "2021-07-05T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "Oil Panic",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FOil%20Panic%2FOilPanic.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD 3-Clause License",
+            "id": "7ade8a",
+            "arduboy": ""
+        },
+        {
             "title": "OktaArduToken",
             "description": "This project turns an ArduBoy credit card size game machine into a TOTP token for use with the Okta Verify OTP service.",
             "genre": "Application",
@@ -4266,6 +4329,27 @@
             "screenshots": [],
             "license": "MIT",
             "id": "88735f",
+            "arduboy": ""
+        },
+        {
+            "title": "Road Trip",
+            "description": "Inspired by Enduro.",
+            "genre": "Racing",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Press Play on Tape, Filmote and Vampirics",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2FRoadTrip%2FRoadTrip_Banner.png",
+            "date": "2021-07-05T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "Road Trip",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2FRoadTrip%2FRoadTrip.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD 3-Clause License",
+            "id": "6de930",
             "arduboy": ""
         },
         {
@@ -6012,5 +6096,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "286"
+    "items-length": "290"
 }
