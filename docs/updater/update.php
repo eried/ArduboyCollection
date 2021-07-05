@@ -3,7 +3,7 @@ require 'config.php';
 echo 'Starting update';
 
 /* gets the data from a URL */
-function get_data($url)
+function get_data($url,$userpwd="")
 {
 	$ch = curl_init();
 	$timeout = 30;
@@ -11,6 +11,10 @@ function get_data($url)
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 	curl_setopt($ch,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13');
 	curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
+	
+	if(strlen($userpwd)>0)
+    curl_setopt($ch, CURLOPT_USERPWD, "$userpwd");
+    
 	$data = curl_exec($ch);
 	curl_close($ch);
 	return $data;
@@ -34,7 +38,7 @@ function utf8ize($d)
 }
 
 // Get repository
-$repo = json_decode(get_data("https://api.github.com/repos/{$repopath}git/trees/master?recursive=1&client_id={$client_id}&client_secret={$client_secret}"));
+$repo = json_decode(get_data("https://api.github.com/repos/{$repopath}git/trees/master?recursive=1","{$client_id}:{$client_secret}"));
 
 // Generate output json
 $output = array();
