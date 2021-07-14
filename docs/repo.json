@@ -90,6 +90,27 @@
             "arduboy": ""
         },
         {
+            "title": "1nvader",
+            "description": "A one-button classic.",
+            "genre": "Shooter",
+            "url": "",
+            "sourceUrl": "",
+            "author": "Press Play on Tape, Filmote and Vampirics",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2F1nvader%2F1nvader_Banner.jpg",
+            "date": "2021-07-05T13:25:27Z",
+            "binaries": [
+                {
+                    "title": "1nvader",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2F1nvader%2F1nvader.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "BSD 3-Clause License",
+            "id": "4269dc",
+            "arduboy": ""
+        },
+        {
             "title": "2048",
             "description": "2048 Clone",
             "genre": "Puzzle",
@@ -6096,5 +6117,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "290"
+    "items-length": "291"
 }
