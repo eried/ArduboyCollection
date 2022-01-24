@@ -3870,6 +3870,27 @@
             "arduboy": ""
         },
         {
+            "title": "Orbs",
+            "description": "Osmos inspired-Eat smaller Orbs to get larger before the larger ones eat you. Orbs bounce off walls. Missles break apart Orbs.",
+            "genre": "Arcade",
+            "url": "https:\/\/community.arduboy.com\/t\/orbs-game-inspired-by-osmos\/10224",
+            "sourceUrl": "https:\/\/github.com\/jmosk\/orbs",
+            "author": "Jay Moskowitz",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FOrbs%2Forbs.png",
+            "date": "2022-01-23T13:45:27Z",
+            "binaries": [
+                {
+                    "title": "Orbs",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FOrbs%2Forbs.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "OSL-3.0",
+            "id": "2b80a7",
+            "arduboy": ""
+        },
+        {
             "title": "PAC-Tastic",
             "description": "Secure the point while avoiding the enemy",
             "genre": "Arcade",
@@ -6117,5 +6138,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "291"
+    "items-length": "292"
 }
