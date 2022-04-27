@@ -4290,6 +4290,27 @@
             "arduboy": ""
         },
         {
+            "title": "Ravine Despoiler",
+            "description": "A loose interpretation of Atari\u0027s arcade classic Canyon Bomber",
+            "genre": "Arcade",
+            "url": "https:\/\/github.com\/unwiredben\/arduboy-ravine-despoiler",
+            "sourceUrl": "https:\/\/github.com\/unwiredben\/arduboy-ravine-despoiler",
+            "author": "Ben Combee (@unwiredben)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FRavine%20Despoiler%2FRavineDespoiler.png",
+            "date": "2021-07-25T00:00:00Z",
+            "binaries": [
+                {
+                    "title": "Ravine Despoiler",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FRavine%20Despoiler%2FRavineDespoiler.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Apache-2.0",
+            "id": "edec82",
+            "arduboy": ""
+        },
+        {
             "title": "Rayne the Rogue",
             "description": "As a child Rayne watched the rich from the streets of the village and burned with jealousy. After years and years of poverty an idea formed. Rayne has decided to sneak into the lairs of dragons and steel their treasures. Rayne need your help to navigate the dangerous caves and avoid the dragon\u0027s breath to become the wealthiest person in the village, but take heed, the further Rayne gets the more treacherous it will be.",
             "genre": "Action",
@@ -6138,5 +6159,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "292"
+    "items-length": "293"
 }
