@@ -10,7 +10,7 @@ function initFilter( _settings ){
         categoryAttribute: "data-item-tags",
         dateAttribute: "data-item-date",
         licenseAttribute: "data-item-license",
-        newDateCutoff: 30, // days
+        newDateCutoff: 90, // days
 
         newOnly:false,
         libreOnly:false,
