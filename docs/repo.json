@@ -6012,6 +6012,27 @@
             "arduboy": ""
         },
         {
+            "title": "Waternet",
+            "description": "A puzzle game based on the Net and Netslide games from Simon Tatham\u0027s puzzle collection.",
+            "genre": "Puzzle",
+            "url": "https:\/\/joyrider3774.github.io\/waternet_arduboy\/",
+            "sourceUrl": "https:\/\/github.com\/joyrider3774\/waternet_arduboy",
+            "author": "Willems Davy aka Joyrider3774",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FWaternet%2FWaternet.png",
+            "date": "2022-06-12T11:34:15Z",
+            "binaries": [
+                {
+                    "title": "Waternet",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FWaternet%2FWaternet.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "096add",
+            "arduboy": ""
+        },
+        {
             "title": "WHG",
             "description": "This is a Gamebuino port of the browsergame Worlds Hardest Game. Featuring 22 levels this game will surely seem to be next to impossible! I am not responsible for any damage to your Gamebuino that you do due to the frustration when trying to beat this game. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)",
             "genre": "Arcade",
@@ -6159,5 +6180,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "293"
+    "items-length": "294"
 }
