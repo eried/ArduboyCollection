@@ -2447,7 +2447,7 @@
             "genre": "Puzzle",
             "url": "https:\/\/github.com\/ImMrShrike\/gng-arduboy-game",
             "sourceUrl": "https:\/\/github.com\/ImMrShrike\/gng-arduboy-game",
-            "author": "Claudio Belato (Games\u0027n Goblins)",
+            "author": "Claudio Belato",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FGamesNGoblins%2FGamesNGoblins.png",
             "date": "2022-06-25T15:36:22Z",
             "binaries": [
@@ -2459,7 +2459,7 @@
             ],
             "screenshots": [],
             "license": "MIT",
-            "id": "9bb5a8",
+            "id": "bb15c8",
             "arduboy": ""
         },
         {
