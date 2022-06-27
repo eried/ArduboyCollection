@@ -2442,6 +2442,27 @@
             "arduboy": ""
         },
         {
+            "title": "Games\u0027n Goblins: The Game!",
+            "description": "This is a clone of a puzzle game named Assmbloids. The goal is to assemble pieces of monster faces trying to mix them as little as possible. But you have to hurry, time passes fast!",
+            "genre": "Puzzle",
+            "url": "https:\/\/github.com\/ImMrShrike\/gng-arduboy-game",
+            "sourceUrl": "https:\/\/github.com\/ImMrShrike\/gng-arduboy-game",
+            "author": "Claudio Belato (Games\u0027n Goblins)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FGamesNGoblins%2FGamesNGoblins.png",
+            "date": "2022-06-25T15:36:22Z",
+            "binaries": [
+                {
+                    "title": "Games\u0027n Goblins: The Game!",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FGamesNGoblins%2FGamesNGoblins.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "9bb5a8",
+            "arduboy": ""
+        },
+        {
             "title": "German Whist",
             "description": "A version of the card game German Whist.",
             "genre": "Puzzle",
@@ -6180,5 +6201,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "294"
+    "items-length": "295"
 }
