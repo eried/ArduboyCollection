@@ -1224,6 +1224,27 @@
             "arduboy": ""
         },
         {
+            "title": "Biddy Watering",
+            "description": "A simple game of a biddy who waters flowers and dodges a piggy",
+            "genre": "Demo",
+            "url": "https:\/\/github.com\/MyNamesQi\/biddy_watering_demo.git",
+            "sourceUrl": "https:\/\/github.com\/MyNamesQi\/biddy_watering_demo.git",
+            "author": "MyNamesQi",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Demo%2FBiddy%20Watering%2F2022-10-19_23.22.46.png",
+            "date": "2022-10-19T23:07:16Z",
+            "binaries": [
+                {
+                    "title": "Biddy Watering",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Demo%2FBiddy%20Watering%2FArduboyProject.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "4b06d9",
+            "arduboy": ""
+        },
+        {
             "title": "BigBlackBox",
             "description": "A awesome platformer for an awesome console! With the gameplay style of SuperMeatBoy, BigBlackBox is a fun platformer full a challenging level desing with a beautiful and handsome look! (This game was adapted using the Gamebuino Library for Arduboy by akkera102)",
             "genre": "Platformer",
@@ -2443,7 +2464,7 @@
         },
         {
             "title": "Games\u0027n Goblins: The Game!",
-            "description": "This is a clone of a puzzle game named Assmbloids. The goal is to assemble pieces of monster faces trying to mix them as little as possible. But you have to hurry, time passes fast!",
+            "description": "This is a clone of a puzzle game named Assembloids. The goal is to assemble pieces of monster faces trying to mix them as little as possible. But you have to hurry, time passes fast!",
             "genre": "Puzzle",
             "url": "https:\/\/github.com\/ImMrShrike\/gng-arduboy-game",
             "sourceUrl": "https:\/\/github.com\/ImMrShrike\/gng-arduboy-game",
@@ -6201,5 +6222,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "295"
+    "items-length": "296"
 }
