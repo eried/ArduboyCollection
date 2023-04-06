@@ -5655,6 +5655,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tiny-Lander",
+            "description": "Tiny-Lander",
+            "genre": "Platformer",
+            "url": "https:\/\/github.com\/tscha70\/",
+            "sourceUrl": "https:\/\/github.com\/tscha70\/",
+            "author": "Roger Buehler",
+            "banner": "",
+            "date": "2023-06-05 T09:43:02Z",
+            "binaries": [
+                {
+                    "title": "Tiny-Lander",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FTinyLander%2FTiny-Lander.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "76fb1b",
+            "arduboy": ""
+        },
+        {
             "title": "Tiny-Missile",
             "description": "Tiny-Missile (like Missile Command on atari 2600)",
             "genre": "Arcade",
@@ -6243,5 +6264,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "297"
+    "items-length": "298"
 }
