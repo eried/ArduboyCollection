@@ -3912,6 +3912,27 @@
             "arduboy": ""
         },
         {
+            "title": "Omega Chase",
+            "description": "Omega Chase is an Arduboy port of the classic arcade style shooter game Omega Race. In this game, you control a spaceship and must navigate through an arena, shooting down enemy ships and avoiding obstacles.",
+            "genre": "Shooter",
+            "url": "https:\/\/community.arduboy.com\/t\/omega-chase-an-arcade-style-shooter\/11092",
+            "sourceUrl": "https:\/\/github.com\/Karl-Williams\/OmegaChase",
+            "author": "Karl P. Williams",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FOmega%20Chase%2Fomega-chase-banner.png",
+            "date": "2023-05-29T10:00:00Z",
+            "binaries": [
+                {
+                    "title": "Omega Chase",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FOmega%20Chase%2FOmega_chase_V_1_0.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "267e65",
+            "arduboy": ""
+        },
+        {
             "title": "Omega Horizon",
             "description": "The planet of Turnax has extensive mineral deposits of high value to the Interplanetary Allied Confederation (IPAC). Recent unanticipated attacks by primative species have proven damaging to mining operations. Your mission is to eliminate the primitive hierarchy in minimal time.",
             "genre": "Platformer",
@@ -6264,5 +6285,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "298"
+    "items-length": "299"
 }
