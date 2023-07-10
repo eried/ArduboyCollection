@@ -1938,6 +1938,27 @@
             "arduboy": ""
         },
         {
+            "title": "Cursed Mansion 1300",
+            "description": "A demake of an old Atari 2600 game called Haunted House. The goal is to find 3 pieces of an ancient urn and run away from the mansion trying to avoid the Ghost of the old owner of the house, a giant spider and a flock of bats.",
+            "genre": "Arcade",
+            "url": "https:\/\/github.com\/ImMrShrike\/Cursed-Mansion-1300",
+            "sourceUrl": "https:\/\/github.com\/ImMrShrike\/Cursed-Mansion-1300",
+            "author": "Claudio Belato",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FCursed%20Mansion%201300%2FcursedMansion1300.png",
+            "date": "2023-06-29T19:43:37Z",
+            "binaries": [
+                {
+                    "title": "Cursed Mansion 1300",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FCursed%20Mansion%201300%2FcursedMansion1300.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "AGPL-3.0-or-later",
+            "id": "310f18",
+            "arduboy": ""
+        },
+        {
             "title": "Cute E",
             "description": "Quick time event game for the Arduboy, inspired by the singer Els Pynoo and the song \u0022You can sleep in my bed\u0022 from Vive la f\u00eate. It was coded by Juice Lizard in 2017.",
             "genre": "Arcade",
@@ -6285,5 +6306,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "299"
+    "items-length": "300"
 }
