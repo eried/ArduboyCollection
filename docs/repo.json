@@ -5130,6 +5130,27 @@
             "arduboy": ""
         },
         {
+            "title": "Squid Jump",
+            "description": "A demake of the Squid Jump microgame from Splatoon",
+            "genre": "Arcade",
+            "url": "https:\/\/github.com\/PrimmR\/squid_jump",
+            "sourceUrl": "https:\/\/github.com\/PrimmR\/squid_jump",
+            "author": "PrimmR",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FSquid%20Jump%2FBanner.png",
+            "date": "2023-08-27T11:44:42Z",
+            "binaries": [
+                {
+                    "title": "Squid Jump",
+                    "filename": "https:\/\/files.primm.gay\/extras\/arduboy\/Squid%20Jump\/SquidJump.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPL-3.0-only",
+            "id": "bdad3c",
+            "arduboy": ""
+        },
+        {
             "title": "Stairs Sweep",
             "description": "Falling block puzzle game, something like Pac-Attack",
             "genre": "Puzzle",
@@ -6306,5 +6327,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "300"
+    "items-length": "301"
 }
