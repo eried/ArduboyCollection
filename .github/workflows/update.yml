@@ -38,7 +38,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add .
+        git add docs/repo.json
+        git add docs/index.html
         git reset docs/updater/config.php  # Exclude config.php from the commit
         git commit -m "Repo update" -a || echo "No changes to commit"
         git push
