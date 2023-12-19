@@ -5403,6 +5403,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tetroi",
+            "description": "An Arduboy clone of a very well known and successful game from the 80s",
+            "genre": "Puzzle",
+            "url": "https:\/\/github.com\/tscha70\/Tetroi\/tree\/main",
+            "sourceUrl": "https:\/\/github.com\/tscha70\/Tetroi\/tree\/main",
+            "author": "Roger Buehler",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FTetroi%2FTetroi.png",
+            "date": "2023-12-19T09:43:02Z",
+            "binaries": [
+                {
+                    "title": "Tetroi",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FTetroi%2FTetroi.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "c0c8ad",
+            "arduboy": ""
+        },
+        {
             "title": "The Bounce",
             "description": "The Bounce is a bouncy ball physics platformer game. Simple to understand yet incredibly hard to master, what seems easy at first glance is actually pretty rage inducing when you get to the later levels. I\u0027m not much of an artist so I focused on simple design, which allows for easily customisable levels (maybe a level editor someday) and awesome gameplay.",
             "genre": "Platformer",
@@ -6348,5 +6369,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "302"
+    "items-length": "303"
 }
