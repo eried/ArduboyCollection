@@ -21,7 +21,6 @@ jobs:
 
     - name: Create config.php
       run: |
-        mkdir -p docs/updater
         cd docs/updater
         echo '<?php' > config.php
         echo '// Configuration' >> config.php
