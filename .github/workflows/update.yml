@@ -1,0 +1,42 @@
+name: Update Arduboy Collection
+
+on:
+  push:
+    branches:
+      - main  # or any other branch you want to trigger the action
+
+jobs:
+  update-collection:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.0'  # specify the PHP version
+
+    - name: Create config.php
+      run: |
+        mkdir -p docs/updater
+        echo '<?php' > docs/updater/config.php
+        echo '// Configuration' >> docs/updater/config.php
+        echo "\$server = 'https://raw.githubusercontent.com/';" >> docs/updater/config.php
+        echo "\$repopath = 'eried/ArduboyCollection/'; // Source repository" >> docs/updater/config.php
+        echo '' >> docs/updater/config.php
+        echo '// Github credentials' >> docs/updater/config.php
+        echo "\$client_id='${{ secrets.CLIENT_ID }}';" >> docs/updater/config.php
+        echo "\$client_secret='${{ secrets.CLIENT_SECRET }}';" >> docs/updater/config.php
+
+    - name: Execute update.php
+      run: php docs/updater/update.php
+
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Repo update" -a || echo "No changes to commit"
+        git push
