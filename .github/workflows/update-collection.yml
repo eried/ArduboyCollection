@@ -3,9 +3,9 @@ name: update-collection
 on:
   pull_request:
     types: [closed]
-  push:
-    branches:
-      - main  # or any other branch you want to trigger the action
+  #push:
+  #  branches:
+  #    - main  # or any other branch you want to trigger the action
   workflow_dispatch:
 
 jobs:
