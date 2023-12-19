@@ -215,4 +215,4 @@ $template = file_get_contents("template.html");
 //start the mustache engine
 $m = new Mustache_Engine;
 file_put_contents("../index.html",$m->render($template, $values));
-
+exit(0);  // or die(0);
