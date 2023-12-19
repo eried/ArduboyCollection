@@ -1,4 +1,4 @@
-name: Update Arduboy Collection
+name: update-collection
 
 on:
   push:
