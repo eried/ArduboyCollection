@@ -20,8 +20,8 @@ jobs:
         php-version: '7.4'  # specify the PHP version
 
     - name: Create config.php
+      working-directory: docs/updater
       run: |
-        cd docs/updater
         echo '<?php' > config.php
         echo '// Configuration' >> config.php
         echo "\$server = 'https://raw.githubusercontent.com/';" >> config.php
@@ -32,13 +32,15 @@ jobs:
         echo "\$client_secret='${{ secrets.CLIENT_SECRET }}';" >> config.php
 
     - name: Execute update.php
+      working-directory: docs/updater
       run: php update.php
 
     - name: Commit and Push changes
+      working-directory: docs
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add ../repo.json
-        git add ../index.html
+        git add repo.json
+        git add index.html
         git commit -m "Repo update" -a || echo "No changes to commit"
         git push
