@@ -2127,6 +2127,27 @@
             "arduboy": ""
         },
         {
+            "title": "DIGMAN",
+            "description": "Fight time, dig away and get rich",
+            "genre": "Arcade",
+            "url": "https:\/\/github.com\/Slugslinger\/digman",
+            "sourceUrl": "https:\/\/github.com\/Slugslinger\/digman",
+            "author": "Slugslinger",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FDIGMAN%2Fdigman.png",
+            "date": "2023-12-21T23:00:00Z",
+            "binaries": [
+                {
+                    "title": "DIGMAN",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FDIGMAN%2Fdigman.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "1f829e",
+            "arduboy": ""
+        },
+        {
             "title": "Do You Remember Love",
             "description": "Do You Remember Love? - a horizontally scrolling shooter",
             "genre": "Shooter",
@@ -6369,5 +6390,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "303"
+    "items-length": "304"
 }
