@@ -3114,6 +3114,27 @@
             "arduboy": ""
         },
         {
+            "title": "Kunenhrayenhnenh",
+            "description": "An encounter with the Kunenhrayenhnenh (Iroqouis floating head)",
+            "genre": "RPG",
+            "url": "https:\/\/outgrabe.itch.io\/kunenhrayenhnenh-arduboy-vers",
+            "sourceUrl": "https:\/\/github.com\/TylerBWright\/Kunenhrayenhnenh",
+            "author": "Outgrabe",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FKunenhrayenhnenh%2Fbanner.png",
+            "date": "2024-01-09T12:19:41Z",
+            "binaries": [
+                {
+                    "title": "Kunenhrayenhnenh",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FKunenhrayenhnenh%2FKunenhrayenhnenh.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "CC0-1.0",
+            "id": "eca4ef",
+            "arduboy": ""
+        },
+        {
             "title": "Kung Fu Escape",
             "description": "Just a small little game trying to channel the old Kung Fu Master arcade game",
             "genre": "Arcade",
@@ -6390,5 +6411,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "304"
+    "items-length": "305"
 }
