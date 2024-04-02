@@ -888,6 +888,27 @@
             "arduboy": ""
         },
         {
+            "title": "Ardumania",
+            "description": "Ardumania V1.0Beta",
+            "genre": "Arcade",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FArdumania%2FArdumania.png",
+            "date": "2024-03-30T09:43:02Z",
+            "binaries": [
+                {
+                    "title": "Ardumania",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FArdumania%2FArduMania.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "3b1dba",
+            "arduboy": ""
+        },
+        {
             "title": "ArduMetronome",
             "description": "A simple metronome",
             "genre": "Application",
@@ -6432,5 +6453,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "306"
+    "items-length": "307"
 }
