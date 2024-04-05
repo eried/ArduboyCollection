@@ -47,4 +47,5 @@ jobs:
         git add index.html
         git commit -m "Repo update" -a || echo "No changes to commit"
         ##git push
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/eried/ArduboyCollection.git
+        #git push https://${{ secrets.GITHUB_TOKEN }}@github.com/eried/ArduboyCollection.git
+        git push https://${{ secrets.PAT }}@github.com/eried/ArduboyCollection.git
