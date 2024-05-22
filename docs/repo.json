@@ -5655,6 +5655,27 @@
             "arduboy": ""
         },
         {
+            "title": "TiMiNoo",
+            "description": "Cute 1 bit VPet for Arduboy - Feed, cuddle, clean and educate your own unique cat",
+            "genre": "Misc",
+            "url": "https:\/\/github.com\/TME520\/TiMiNoo-Arduboy",
+            "sourceUrl": "https:\/\/github.com\/TME520\/TiMiNoo-Arduboy",
+            "author": "TME520",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FTiMiNoo%2Ftiminoo.png",
+            "date": "2024-05-21T23:11:00Z",
+            "binaries": [
+                {
+                    "title": "TiMiNoo",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FTiMiNoo%2Ftiminoo.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPL-3.0",
+            "id": "27ec27",
+            "arduboy": ""
+        },
+        {
             "title": "Tiny Asteroids",
             "description": "Asteroids(1979) clone.",
             "genre": "Shooter",
@@ -6453,5 +6474,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "307"
+    "items-length": "308"
 }
