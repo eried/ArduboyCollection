@@ -37,6 +37,8 @@ jobs:
 
     - name: Commit and Push changes
       working-directory: docs
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
