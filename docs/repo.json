@@ -4710,6 +4710,27 @@
             "arduboy": ""
         },
         {
+            "title": "Row Farm",
+            "description": "Match adorable farm animals in this mini puzzle game inspired by classic Columns!",
+            "genre": "Puzzle",
+            "url": "",
+            "sourceUrl": "https:\/\/community.arduboy.com\/t\/row-farm-a-puzzle-game-inspired-by-columns\/12042",
+            "author": "Glitschen",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FRowFarm%2Ftitle_screen.png",
+            "date": "2024-05-24T19:00:00Z",
+            "binaries": [
+                {
+                    "title": "Row Farm",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FRowFarm%2FRowFarm.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "6adbf6",
+            "arduboy": ""
+        },
+        {
             "title": "SameGame - A famous tile-matching puzzle",
             "description": "This game is played on a 10\u00d720 rectangular field, initially filled with 5 kinds of blocks placed at random. By selecting a group of adjoining blocks of the same kind, a player may remove them from the field",
             "genre": "Arcade",
@@ -6474,5 +6495,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "308"
+    "items-length": "309"
 }
