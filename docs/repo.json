@@ -4353,6 +4353,27 @@
             "arduboy": ""
         },
         {
+            "title": "PongHauKi",
+            "description": "A simple chess known in China and a few other Asian countries. Move 1 of 2 pieces by turn. Who gets blocked loses game.",
+            "genre": "Puzzle",
+            "url": "https:\/\/github.com\/databhor\/PongHauKi",
+            "sourceUrl": "https:\/\/github.com\/databhor\/PongHauKi",
+            "author": "databhor",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FPongHauKi%2Fscreenshot.png",
+            "date": "2024-06-06T09:45:25Z",
+            "binaries": [
+                {
+                    "title": "PongHauKi",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FPongHauKi%2FPongHauKi.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "Proprietary",
+            "id": "8d04b0",
+            "arduboy": ""
+        },
+        {
             "title": "Poop Panic!",
             "description": "You keep the zoo clean!",
             "genre": "Arcade",
@@ -5246,7 +5267,7 @@
             "binaries": [
                 {
                     "title": "Squid Jump",
-                    "filename": "https:\/\/files.primm.gay\/extras\/arduboy\/Squid%20Jump\/SquidJump.hex",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FSquid%20Jump%2FSquidJump.hex",
                     "device": "Arduboy"
                 }
             ],
@@ -6495,5 +6516,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "309"
+    "items-length": "310"
 }
