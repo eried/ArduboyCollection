@@ -405,6 +405,27 @@
             "arduboy": ""
         },
         {
+            "title": "ARDecipher",
+            "description": "Similar to the terminal hack in Fallout 4. Find the password within 5 retries. Number of matched characters will be shown if you choose a non-password string.",
+            "genre": "Puzzle",
+            "url": "https:\/\/github.com\/databhor\/ARDecipher",
+            "sourceUrl": "https:\/\/github.com\/databhor\/ARDecipher",
+            "author": "databhor",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FARDecipher%2Fscreenshot.png",
+            "date": "2024-06-15T18:10:11Z",
+            "binaries": [
+                {
+                    "title": "ARDecipher",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FARDecipher%2FARDecipher.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "440f46",
+            "arduboy": ""
+        },
+        {
             "title": "Ardletics",
             "description": "Athletics game for Arduboy. At the moment I have a playable proof of concept of what would be the basis of the game (including smooth animations and digitized sound).",
             "genre": "Sports",
@@ -4369,7 +4390,7 @@
                 }
             ],
             "screenshots": [],
-            "license": "Proprietary",
+            "license": "MIT",
             "id": "8d04b0",
             "arduboy": ""
         },
@@ -5267,7 +5288,7 @@
             "binaries": [
                 {
                     "title": "Squid Jump",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FSquid%20Jump%2FSquidJump.hex",
+                    "filename": "https:\/\/files.primm.gay\/extras\/arduboy\/Squid%20Jump\/SquidJump.hex",
                     "device": "Arduboy"
                 }
             ],
@@ -6516,5 +6537,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "310"
+    "items-length": "311"
 }
