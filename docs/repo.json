@@ -3891,6 +3891,27 @@
             "arduboy": ""
         },
         {
+            "title": "Nohzdyve",
+            "description": "Nohzdyve is a platform game that involves catching all the eyeballs while avoiding walls and jaws!",
+            "genre": "Platformer",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FNohzdyve%2FNohzdyve.png",
+            "date": "2024-26-10 T16:51:02Z",
+            "binaries": [
+                {
+                    "title": "Nohzdyve",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FNohzdyve%2FNohzdyve.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "574dd6",
+            "arduboy": ""
+        },
+        {
             "title": "Nomis",
             "description": "A simple memory game similar to Simon(tm).",
             "genre": "Puzzle",
@@ -6537,5 +6558,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "311"
+    "items-length": "312"
 }
