@@ -910,13 +910,13 @@
         },
         {
             "title": "Ardumania",
-            "description": "Ardumania V1.1",
+            "description": "Ardumania V1.3",
             "genre": "Arcade",
             "url": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
             "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
             "author": "Daniel C (Electro L.I.B)",
             "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FArdumania%2FArdumania.png",
-            "date": "2024-04-04T04:46:02Z",
+            "date": "2024-10-31T15:35:02Z",
             "binaries": [
                 {
                     "title": "Ardumania",
