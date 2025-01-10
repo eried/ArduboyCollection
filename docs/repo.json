@@ -3828,6 +3828,27 @@
             "arduboy": ""
         },
         {
+            "title": "Multiplication Table Game",
+            "description": "Game which helps to learn Multiplication Table for kids",
+            "genre": "Misc",
+            "url": "https:\/\/community.arduboy.com\/t\/multiplication-table-game\/12523",
+            "sourceUrl": "https:\/\/github.com\/luxurydab\/arduboy-multiplication-table-game",
+            "author": "luxurydab",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FMultiplicationTable%2Fscreenshot.png",
+            "date": "2025-01-10T20:47:00Z",
+            "binaries": [
+                {
+                    "title": "Multiplication Table Game",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Misc%2FMultiplicationTable%2Farduboy-multiplication-table-game-1.0.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "7a8784",
+            "arduboy": ""
+        },
+        {
             "title": "Nanoseq",
             "description": "nano size sequencer for arduboy",
             "genre": "Misc",
@@ -6558,5 +6579,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "312"
+    "items-length": "313"
 }
