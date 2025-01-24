@@ -2631,6 +2631,27 @@
             "arduboy": ""
         },
         {
+            "title": "Gilbert in the Downland",
+            "description": "Gilbert in the Downland is an Arduboy port of the game Downland, originally released on the TRS-80 COCO2 computer!",
+            "genre": "Platformer",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FGilbert%20in%20the%20Downland%2FGilbert%20in%20the%20Downland.png",
+            "date": "2025-23-01T04:14:02Z",
+            "binaries": [
+                {
+                    "title": "Gilbert in the Downland",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FGilbert%20in%20the%20Downland%2FGilbertintheDownland.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "b32537",
+            "arduboy": ""
+        },
+        {
             "title": "Glove",
             "description": "Glove is an action-adventure game created in the style of the classic Gauntlet series. Navigate from room to room, blasting bad guys and collecting treasure along the way.",
             "genre": "Action",
@@ -6579,5 +6600,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "313"
+    "items-length": "314"
 }
