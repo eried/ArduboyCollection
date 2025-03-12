@@ -5970,6 +5970,27 @@
             "arduboy": ""
         },
         {
+            "title": "Tiny-Doc",
+            "description": "Tiny-Doc is a puzzle game inspired by the popular GameBoy game Dr. Mario. Tiny-Doc was originally created for the Tinyjoypad based on the Attiny85.",
+            "genre": "Puzzle",
+            "url": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
+            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
+            "author": "Daniel C (Electro L.I.B)",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FTinyDoc%2FTinyDoc.png",
+            "date": "2025-11-03T04:24:02Z",
+            "binaries": [
+                {
+                    "title": "Tiny-Doc",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FTinyDoc%2FTinyDoc.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "GPLv3",
+            "id": "e42531",
+            "arduboy": ""
+        },
+        {
             "title": "Tiny-Lander",
             "description": "Tiny-Lander",
             "genre": "Platformer",
@@ -6600,5 +6621,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "314"
+    "items-length": "315"
 }
