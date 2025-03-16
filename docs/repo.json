@@ -4311,6 +4311,27 @@
             "arduboy": ""
         },
         {
+            "title": "Pipe Boy",
+            "description": "PipeBoy is a fast-paced puzzle game for Arduboy, inspired by Pipe Mania. Build an efficient pipe network before the liquid starts flowing! Play solo or cooperate with a friend in the 2-player mode. Think fast, optimize your connections, and become the ultimate pipe master!",
+            "genre": "Puzzle",
+            "url": "https:\/\/community.arduboy.com\/t\/pipe-boy-playable-solo-or-with-2-players\/12618",
+            "sourceUrl": "https:\/\/github.com\/Glitsch3n\/arduboy-game-collection\/tree\/main\/PipeBoy",
+            "author": "Glitschen",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FPipeBoy%2Fpipeboy_thumbnail.png",
+            "date": "2025-03-14T19:00:00Z",
+            "binaries": [
+                {
+                    "title": "Pipe Boy",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FPipeBoy%2FPipeBoy.ino.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "ba8cdd",
+            "arduboy": ""
+        },
+        {
             "title": "Pipes",
             "description": "A version of the classic pipes game where you must lay pip between each pair of nodes without the pipes crossing each other. This version has puzzles ranging from 5 x 5 to 9 x 9.",
             "genre": "Puzzle",
@@ -6621,5 +6642,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "315"
+    "items-length": "316"
 }
