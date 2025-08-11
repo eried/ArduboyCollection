@@ -6,27 +6,6 @@
     "website": "http:\/\/arduboy.ried.cl",
     "items": [
         {
-            "title": "0x0Emul",
-            "description": "0x0Emul interprets hexadecimal code from ABasm data in EEPROM. Features: 1 Retrieve code from EEPROM to Arduino IDE terminal. 2 Install code from 0x0Emul menu into EEPROM for reediting with ABasm. 3 Emulate program or game in HEX format.",
-            "genre": "Application",
-            "url": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
-            "sourceUrl": "https:\/\/sites.google.com\/view\/arduino-collection\/arduboy2_license",
-            "author": "Daniel C (Electro L.I.B)",
-            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2F0x0Emul%2F0x0Emul2.png",
-            "date": "2024-02-15T09:43:02Z",
-            "binaries": [
-                {
-                    "title": "0x0Emul",
-                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Application%2F0x0Emul%2F0x0Emul.ino.hex",
-                    "device": "Arduboy"
-                }
-            ],
-            "screenshots": [],
-            "license": "GPLv3",
-            "id": "e06bf0",
-            "arduboy": ""
-        },
-        {
             "title": "101 Starships",
             "description": "Can you destroy this huge fleet and survive? A difficult shoot \u0027em up with interesting scoring mechanics. (This game was adapted using the Gamebuino Library for Arduboy by akkera102)",
             "genre": "Shooter",
@@ -6642,5 +6621,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "316"
+    "items-length": "315"
 }
