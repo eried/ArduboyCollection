@@ -6180,6 +6180,27 @@
             "arduboy": ""
         },
         {
+            "title": "TinyDungeon",
+            "description": "TinyDungeon is an old school dungeon crawler (inspired by the games of the 80s like \u00e2\u0080\u0098The Bards Tale\u00e2\u0080\u0099 or \u00e2\u0080\u0098Dungeon Master\u00e2\u0080\u0099). The goal of the game is to find the Water of Life to save your love from a mysterious desease. The fountain is rumored to be in the depth of a dark and creepy dungeon\u00e2\u0080\u00a6 (I\u00e2\u0080\u0099m working on a more elaborate version of the story :winking_face_with_tongue: ) The dungeon contains some nasty things like teleporters and spinners, so it is strongly recommended to draw a map. Oh, there are monsters, too! :innocent:",
+            "genre": "RPG",
+            "url": "\/\/https:\/\/github.com\/Lorandil\/TinyDungeon",
+            "sourceUrl": "\/\/https:\/\/github.com\/Lorandil\/TinyDungeon",
+            "author": "Lorandil",
+            "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FTinyDungeon%2FTinyDungeon.png",
+            "date": "2026-02-14T21:00:13Z",
+            "binaries": [
+                {
+                    "title": "TinyDungeon",
+                    "filename": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/RPG%2FTinyDungeon%2FTinyDungeon_v2.2.0_no_sound.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "screenshots": [],
+            "license": "MIT",
+            "id": "65c288",
+            "arduboy": ""
+        },
+        {
             "title": "To",
             "description": "You are the developer of the door with the teleport function. But just before completion, someone is trying to destroy the door. There seems to be no choice but to distort the space with the power of the door and to prevent destruction.",
             "genre": "Action",
@@ -6642,5 +6663,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "316"
+    "items-length": "317"
 }
